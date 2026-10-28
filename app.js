@@ -1,6 +1,6 @@
 const resources = [
-  {id:"physics-solids",subject:"Physics",type:"Worksheet",title:"Mechanical Properties of Solids",description:"Practice stress, strain, elasticity and Young's modulus with numerical questions.",chapter:"Mechanical Properties of Solids",icon:"↗",level:"Practice"},
-  {id:"physics-units",subject:"Physics",type:"Revision",title:"Units & Measurements",description:"A quick revision starter for dimensions, significant figures and measurement errors.",chapter:"Units and Measurements",icon:"⌁",level:"Revision"},
+  {id:"physics-solids",subject:"Physics",type:"Worksheet",title:"Mechanical Properties of Solids",description:"Practice stress, strain, elasticity and Young's modulus with numerical questions.",chapter:"Mechanical Properties of Solids",icon:"↗",level:"Practice",url:"resources/physics-mechanical-properties-of-solids.html"},
+  {id:"physics-units",subject:"Physics",type:"Revision",title:"Units & Measurements",description:"A quick revision starter for dimensions, significant figures and measurement errors.",chapter:"Units and Measurements",icon:"⌁",level:"Revision",url:"resources/physics-units-measurements.html"},
   {id:"chem-structure",subject:"Chemistry",type:"Notes",title:"Structure of Atom",description:"Organise the core ideas, atomic models and important terms in one place.",chapter:"Structure of Atom",icon:"⚗",level:"Chapter notes"},
   {id:"math-sets",subject:"Mathematics",type:"Worksheet",title:"Sets — Practice Sheet",description:"Build confidence with set notation, operations, intervals and Venn diagrams.",chapter:"Sets",icon:"∑",level:"Practice"},
   {id:"bio-cell",subject:"Biology",type:"Notes",title:"The Living World & Cell",description:"A starting point for definitions, key concepts and quick chapter revision.",chapter:"The Living World / Cell",icon:"❋",level:"Chapter notes"},
@@ -25,7 +25,7 @@ function renderResources(){
     <article class="resource-card" style="animation-delay:${index*45}ms">
       <div class="card-top"><span class="resource-icon ${iconClass(item.subject)}">${item.icon}</span><span class="type-tag">${item.type}</span></div>
       <h3>${escapeHtml(item.title)}</h3><p>${escapeHtml(item.description)}</p>
-      <div class="card-meta"><span class="card-subject">${escapeHtml(item.subject)} · Class 11</span><button class="card-link" data-resource="${item.id}">Open resource <span>↗</span></button></div>
+      <div class="card-meta"><span class="card-subject">${escapeHtml(item.subject)} · Class 11</span>${item.url ? `<a class="card-link" href="${item.url}">Open resource <span>↗</span></a>` : `<span class="card-link" title="Study material coming soon">Coming soon</span>`}</div>
     </article>`).join("");
   count.textContent = `${filtered.length} resource${filtered.length===1?"":"s"}`;
   grid.hidden = filtered.length === 0;
@@ -50,12 +50,6 @@ document.getElementById("clearFilters").addEventListener("click",()=>{
   searchInput.value="";typeFilter.value="All";activeSubject="All";
   document.querySelectorAll("[data-subject]").forEach(el=>el.classList.toggle("selected",el.dataset.subject==="All"));
   renderResources();
-});
-grid.addEventListener("click",event=>{
-  const button=event.target.closest("[data-resource]");if(!button)return;
-  const item=resources.find(resource=>resource.id===button.dataset.resource);
-  if(!item)return;
-  alert("This is a starter listing for "+item.title+". To make this resource downloadable, add your PDF to the repository's resources folder and connect its file path in app.js. Only upload material you have permission to share.");
 });
 const menuToggle=document.getElementById("menuToggle");
 menuToggle.addEventListener("click",()=>{
