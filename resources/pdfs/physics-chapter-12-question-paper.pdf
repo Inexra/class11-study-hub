@@ -1,63 +1,64 @@
 %PDF-1.4
-%StudyNest
+%StudyNest ASCII PDF
 1 0 obj
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
 4 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
 endobj
 5 0 obj
-<< /Length 2193 >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2058 >>
 stream
-BT /F1 11 Tf 48 790 Td (STUDYNEST | CLASS 11 PHYSICS) Tj ET
-BT /F1 18 Tf 48 770 Td (QUESTION PAPER 1) Tj ET
-BT /F1 13 Tf 48 740 Td (Chapter 12: Kinetic Theory) Tj ET
-BT /F1 11 Tf 48 719 Td (Maximum Marks: 40 | Suggested time: 60 minutes) Tj ET
-BT /F1 9 Tf 48 699 Td (Instructions: Answer all questions. Show calculation steps and units. Original practice) Tj ET
-BT /F1 9 Tf 48 686 Td (paper, not an official examination.) Tj ET
-BT /F1 11 Tf 48 672 Td (Section A 1-mark questions - 8 x 1 = 8 marks) Tj ET
-BT /F1 9 Tf 48 652 Td (1. What is an ideal gas model?) Tj ET
-BT /F1 9 Tf 48 638 Td (2. Ideal gas equation?) Tj ET
-BT /F1 9 Tf 48 624 Td (3. Mean translational kinetic energy?) Tj ET
-BT /F1 9 Tf 48 610 Td (4. Origin of gas pressure?) Tj ET
-BT /F1 9 Tf 48 596 Td (5. Monatomic degrees of freedom?) Tj ET
-BT /F1 9 Tf 48 582 Td (6. Effect of lowering pressure on mean free path?) Tj ET
-BT /F1 9 Tf 48 568 Td (7. Molar C_v of monatomic gas?) Tj ET
-BT /F1 9 Tf 48 554 Td (8. Rms speed relation?) Tj ET
-BT /F1 11 Tf 48 540 Td (Section B 2-mark questions - 6 x 2 = 12 marks) Tj ET
-BT /F1 9 Tf 48 520 Td (9. At fixed T, volume halves: pressure?) Tj ET
-BT /F1 9 Tf 48 506 Td (10. 27 deg C in Kelvin?) Tj ET
-BT /F1 9 Tf 48 492 Td (11. Mean kinetic energy at 300K, k=1.38 x 10-^2^3?) Tj ET
-BT /F1 9 Tf 48 478 Td (12. Temperature becomes 4T: rms speed factor?) Tj ET
-BT /F1 9 Tf 48 464 Td (13. Internal energy of n mol monatomic gas?) Tj ET
-BT /F1 9 Tf 48 450 Td (14. Two main ideal gas assumptions?) Tj ET
-BT /F1 11 Tf 48 436 Td (Section C 3-mark questions - 4 x 3 = 12 marks) Tj ET
-BT /F1 9 Tf 48 416 Td (15. Rms speed of M=.028,T=300K,R=8.31?) Tj ET
-BT /F1 9 Tf 48 402 Td (16. mol monatomic gas warms 20K, C_v=3R/2: DeltaU?) Tj ET
-BT /F1 9 Tf 48 388 Td (17. At fixed T, pressure triples: volume factor?) Tj ET
-BT /F1 9 Tf 48 374 Td (18. State equipartition prediction for monatomic gas.) Tj ET
-BT /F1 11 Tf 48 360 Td (Section D 4-mark questions - 2 x 4 = 8 marks) Tj ET
-BT /F1 9 Tf 48 340 Td (19. Compare rms speeds for molar masses .004 and .016 kg/mol at same T.) Tj ET
-BT /F1 9 Tf 48 326 Td (20. f=5, n=2 mol, T=300K: internal energy?) Tj ET
-BT /F1 8 Tf 490 24 Td (StudyNest | Page 1 of 1) Tj ET
+BT /F2 10 Tf 48 795 Td (STUDYNEST | CLASS 11 PHYSICS) Tj ET
+BT /F2 17 Tf 48 782 Td (QUESTION PAPER 1) Tj ET
+BT /F2 12 Tf 48 762 Td (Chapter 12: Kinetic Theory) Tj ET
+BT /F2 9 Tf 48 747 Td (Maximum Marks: 40 | Suggested time: 60 minutes) Tj ET
+BT /F1 8.5 Tf 48 735 Td (Instructions: Answer all questions. Show calculations and units. Original practice material, not an official) Tj ET
+BT /F1 8.5 Tf 48 723.5 Td (examination.) Tj ET
+BT /F1 8.5 Tf 48 705 Td (What is an ideal gas model? [1]) Tj ET
+BT /F1 8.5 Tf 48 693.5 Td (Ideal gas equation? [1]) Tj ET
+BT /F1 8.5 Tf 48 682 Td (Mean translational kinetic energy? [1]) Tj ET
+BT /F1 8.5 Tf 48 670.5 Td (Origin of gas pressure? [1]) Tj ET
+BT /F1 8.5 Tf 48 659 Td (Monatomic degrees of freedom? [1]) Tj ET
+BT /F1 8.5 Tf 48 647.5 Td (Effect of lowering pressure on mean free path? [1]) Tj ET
+BT /F1 8.5 Tf 48 636 Td (Molar C_v of monatomic gas? [1]) Tj ET
+BT /F1 8.5 Tf 48 624.5 Td (Rms speed relation? [1]) Tj ET
+BT /F1 8.5 Tf 48 608 Td (At fixed T, volume halves: pressure? [2]) Tj ET
+BT /F1 8.5 Tf 48 596.5 Td (27 deg C in Kelvin? [2]) Tj ET
+BT /F1 8.5 Tf 48 585 Td (Mean kinetic energy at 300K, k=1.38x10^-23? [2]) Tj ET
+BT /F1 8.5 Tf 48 573.5 Td (Temperature becomes 4T: rms speed factor? [2]) Tj ET
+BT /F1 8.5 Tf 48 562 Td (Internal energy of n mol monatomic gas? [2]) Tj ET
+BT /F1 8.5 Tf 48 550.5 Td (Two main ideal gas assumptions? [2]) Tj ET
+BT /F1 8.5 Tf 48 534 Td (Rms speed of M=.028,T=300K,R=8.31? [3]) Tj ET
+BT /F1 8.5 Tf 48 522.5 Td (1 mol monatomic gas warms 20K, C_v=3R/2: DeltaU? [3]) Tj ET
+BT /F1 8.5 Tf 48 511 Td (At fixed T, pressure triples: volume factor? [3]) Tj ET
+BT /F1 8.5 Tf 48 499.5 Td (State equipartition prediction for monatomic gas. [3]) Tj ET
+BT /F1 8.5 Tf 48 483 Td (Compare rms speeds for molar masses .004 and .016 kg/mol at same T. [4]) Tj ET
+BT /F1 8.5 Tf 48 471.5 Td (f=5, n=2 mol, T=300K: internal energy? [4]) Tj ET
+BT /F1 8.5 Tf 48 458 Td (End of paper - check working, units, signs and significant figures.) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 1 of 1) Tj ET
 endstream
 endobj
 xref
-0 6
+0 7
 0000000000 65535 f 
-0000000020 00000 n 
-0000000069 00000 n 
-0000000126 00000 n 
-0000000196 00000 n 
-0000000322 00000 n 
+0000000030 00000 n 
+0000000079 00000 n 
+0000000136 00000 n 
+0000000206 00000 n 
+0000000281 00000 n 
+0000000417 00000 n 
 trailer
-<< /Size 6 /Root 1 0 R >>
+<< /Size 7 /Root 1 0 R >>
 startxref
-2566
+2526
 %%EOF

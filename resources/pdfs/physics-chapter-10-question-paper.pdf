@@ -1,63 +1,64 @@
 %PDF-1.4
-%StudyNest
+%StudyNest ASCII PDF
 1 0 obj
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
 4 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
 endobj
 5 0 obj
-<< /Length 2270 >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2128 >>
 stream
-BT /F1 11 Tf 48 790 Td (STUDYNEST | CLASS 11 PHYSICS) Tj ET
-BT /F1 18 Tf 48 770 Td (QUESTION PAPER 1) Tj ET
-BT /F1 13 Tf 48 740 Td (Chapter 10: Thermal Properties of Matter) Tj ET
-BT /F1 11 Tf 48 719 Td (Maximum Marks: 40 | Suggested time: 60 minutes) Tj ET
-BT /F1 9 Tf 48 699 Td (Instructions: Answer all questions. Show calculation steps and units. Original practice) Tj ET
-BT /F1 9 Tf 48 686 Td (paper, not an official examination.) Tj ET
-BT /F1 11 Tf 48 672 Td (Section A 1-mark questions - 8 x 1 = 8 marks) Tj ET
-BT /F1 9 Tf 48 652 Td (1. What is temperature's role at equilibrium?) Tj ET
-BT /F1 9 Tf 48 638 Td (2. Convert 27 deg C to kelvin.) Tj ET
-BT /F1 9 Tf 48 624 Td (3. Specific heat capacity?) Tj ET
-BT /F1 9 Tf 48 610 Td (4. Heat for temperature change without phase change?) Tj ET
-BT /F1 9 Tf 48 596 Td (5. Latent heat relation?) Tj ET
-BT /F1 9 Tf 48 582 Td (6. Heat transfer through vacuum?) Tj ET
-BT /F1 9 Tf 48 568 Td (7. Ideal gas equation?) Tj ET
-BT /F1 9 Tf 48 554 Td (8. Newton's law of cooling?) Tj ET
-BT /F1 11 Tf 48 540 Td (Section B 2-mark questions - 6 x 2 = 12 marks) Tj ET
-BT /F1 9 Tf 48 520 Td (9. kg warmed 5 K, c=400: Q?) Tj ET
-BT /F1 9 Tf 48 506 Td (10. alpha=1.2 x 10-,L=2m,DeltaT=50K: extension?) Tj ET
-BT /F1 9 Tf 48 492 Td (11. 100 deg C in kelvin?) Tj ET
-BT /F1 9 Tf 48 478 Td (12. Heat capacity of .5 kg with c=800?) Tj ET
-BT /F1 9 Tf 48 464 Td (13. Heat to melt .2 kg ice, L=3.34 x 10?) Tj ET
-BT /F1 9 Tf 48 450 Td (14. Why is temperature constant during boiling?) Tj ET
-BT /F1 11 Tf 48 436 Td (Section C 3-mark questions - 4 x 3 = 12 marks) Tj ET
-BT /F1 9 Tf 48 416 Td (15. .5 kg water c=4200 heated 10 deg C: heat?) Tj ET
-BT /F1 9 Tf 48 402 Td (16. Rod L=2m,alpha=1.5 x 10-,DeltaT=40K: expansion?) Tj ET
-BT /F1 9 Tf 48 388 Td (17. Mix .2 kg at 80 deg C and .3 kg at 20 deg C, equal c, no heat loss: final T?) Tj ET
-BT /F1 9 Tf 48 374 Td (18. Gas at fixed volume warms 300K to 450K; initial p=100kPa. Final p?) Tj ET
-BT /F1 11 Tf 48 360 Td (Section D 4-mark questions - 2 x 4 = 8 marks) Tj ET
-BT /F1 9 Tf 48 340 Td (19. Describe three heat-transfer modes.) Tj ET
-BT /F1 9 Tf 48 326 Td (20. Melt .2 kg ice at 0 deg C then warm water by 20K; L=3.34 x 10,c=4200. Total Q?) Tj ET
-BT /F1 8 Tf 490 24 Td (StudyNest | Page 1 of 1) Tj ET
+BT /F2 10 Tf 48 795 Td (STUDYNEST | CLASS 11 PHYSICS) Tj ET
+BT /F2 17 Tf 48 782 Td (QUESTION PAPER 1) Tj ET
+BT /F2 12 Tf 48 762 Td (Chapter 10: Thermal Properties of Matter) Tj ET
+BT /F2 9 Tf 48 747 Td (Maximum Marks: 40 | Suggested time: 60 minutes) Tj ET
+BT /F1 8.5 Tf 48 735 Td (Instructions: Answer all questions. Show calculations and units. Original practice material, not an official) Tj ET
+BT /F1 8.5 Tf 48 723.5 Td (examination.) Tj ET
+BT /F1 8.5 Tf 48 705 Td (What is temperature's role at equilibrium? [1]) Tj ET
+BT /F1 8.5 Tf 48 693.5 Td (Convert 27 deg C to kelvin. [1]) Tj ET
+BT /F1 8.5 Tf 48 682 Td (Specific heat capacity? [1]) Tj ET
+BT /F1 8.5 Tf 48 670.5 Td (Heat for temperature change without phase change? [1]) Tj ET
+BT /F1 8.5 Tf 48 659 Td (Latent heat relation? [1]) Tj ET
+BT /F1 8.5 Tf 48 647.5 Td (Heat transfer through vacuum? [1]) Tj ET
+BT /F1 8.5 Tf 48 636 Td (Ideal gas equation? [1]) Tj ET
+BT /F1 8.5 Tf 48 624.5 Td (Newton's law of cooling? [1]) Tj ET
+BT /F1 8.5 Tf 48 608 Td (2 kg warmed 5 K, c=400: Q? [2]) Tj ET
+BT /F1 8.5 Tf 48 596.5 Td (=1.2x10^-5,L=2m,DeltaT=50K: extension? [2]) Tj ET
+BT /F1 8.5 Tf 48 585 Td (100 deg C in kelvin? [2]) Tj ET
+BT /F1 8.5 Tf 48 573.5 Td (Heat capacity of .5 kg with c=800? [2]) Tj ET
+BT /F1 8.5 Tf 48 562 Td (Heat to melt .2 kg ice, L=3.34x10^5? [2]) Tj ET
+BT /F1 8.5 Tf 48 550.5 Td (Why is temperature constant during boiling? [2]) Tj ET
+BT /F1 8.5 Tf 48 534 Td (.5 kg water c=4200 heated 10 deg C: heat? [3]) Tj ET
+BT /F1 8.5 Tf 48 522.5 Td (Rod L=2m,=1.5x10^-5,DeltaT=40K: expansion? [3]) Tj ET
+BT /F1 8.5 Tf 48 511 Td (Mix .2 kg at 80 deg C and .3 kg at 20 deg C, equal c, no heat loss: final T? [3]) Tj ET
+BT /F1 8.5 Tf 48 499.5 Td (Gas at fixed volume warms 300K to 450K; initial p=100kPa. Final p? [3]) Tj ET
+BT /F1 8.5 Tf 48 483 Td (Describe three heat-transfer modes. [4]) Tj ET
+BT /F1 8.5 Tf 48 471.5 Td (Melt .2 kg ice at 0 deg C then warm water by 20K; L=3.34x10^5,c=4200. Total Q? [4]) Tj ET
+BT /F1 8.5 Tf 48 458 Td (End of paper - check working, units, signs and significant figures.) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 1 of 1) Tj ET
 endstream
 endobj
 xref
-0 6
+0 7
 0000000000 65535 f 
-0000000020 00000 n 
-0000000069 00000 n 
-0000000126 00000 n 
-0000000196 00000 n 
-0000000322 00000 n 
+0000000030 00000 n 
+0000000079 00000 n 
+0000000136 00000 n 
+0000000206 00000 n 
+0000000281 00000 n 
+0000000417 00000 n 
 trailer
-<< /Size 6 /Root 1 0 R >>
+<< /Size 7 /Root 1 0 R >>
 startxref
-2643
+2596
 %%EOF
