@@ -1,69 +1,7 @@
-const resources = [
-  {id:"physics-solids",subject:"Physics",type:"Worksheet",title:"Mechanical Properties of Solids",description:"Practice stress, strain, elasticity and Young's modulus with numerical questions.",chapter:"Mechanical Properties of Solids",icon:"↗",level:"Practice",url:"resources/physics-mechanical-properties-of-solids.html"},
-  {id:"physics-units",subject:"Physics",type:"Revision",title:"Units & Measurements",description:"A quick revision starter for dimensions, significant figures and measurement errors.",chapter:"Units and Measurements",icon:"⌁",level:"Revision",url:"resources/physics-units-measurements.html"},
-  {id:"chem-structure",subject:"Chemistry",type:"Notes",title:"Structure of Atom",description:"Organise the core ideas, atomic models and important terms in one place.",chapter:"Structure of Atom",icon:"⚗",level:"Chapter notes"},
-  {id:"math-sets",subject:"Mathematics",type:"Worksheet",title:"Sets — Practice Sheet",description:"Build confidence with set notation, operations, intervals and Venn diagrams.",chapter:"Sets",icon:"∑",level:"Practice"},
-  {id:"bio-cell",subject:"Biology",type:"Notes",title:"The Living World & Cell",description:"A starting point for definitions, key concepts and quick chapter revision.",chapter:"The Living World / Cell",icon:"❋",level:"Chapter notes"},
-  {id:"english-writing",subject:"English",type:"Revision",title:"Writing Skills Revision",description:"A concise study starter for planning clear, structured school responses.",chapter:"Writing Skills",icon:"Aa",level:"Revision"}
-];
-const iconClass = subject => ({Physics:"physics",Chemistry:"chemistry",Mathematics:"mathematics",Biology:"biology",English:"english"}[subject] || "physics");
-const grid = document.getElementById("resourceGrid");
-const searchInput = document.getElementById("searchInput");
-const typeFilter = document.getElementById("typeFilter");
-const count = document.getElementById("resourceCount");
-const empty = document.getElementById("emptyState");
-let activeSubject = "All";
-function renderResources(){
-  const term = searchInput.value.trim().toLowerCase();
-  const filtered = resources.filter(item => {
-    const matchesSubject = activeSubject === "All" || item.subject === activeSubject;
-    const matchesType = typeFilter.value === "All" || item.type === typeFilter.value;
-    const haystack = [item.title,item.subject,item.type,item.description,item.chapter].join(" ").toLowerCase();
-    return matchesSubject && matchesType && haystack.includes(term);
-  });
-  grid.innerHTML = filtered.map((item,index) => `
-    <article class="resource-card" style="animation-delay:${index*45}ms">
-      <div class="card-top"><span class="resource-icon ${iconClass(item.subject)}">${item.icon}</span><span class="type-tag">${item.type}</span></div>
-      <h3>${escapeHtml(item.title)}</h3><p>${escapeHtml(item.description)}</p>
-      <div class="card-meta"><span class="card-subject">${escapeHtml(item.subject)} · Class 11</span>${item.url ? `<a class="card-link" href="${item.url}">Open resource <span>↗</span></a>` : `<span class="card-link" title="Study material coming soon">Coming soon</span>`}</div>
-    </article>`).join("");
-  count.textContent = `${filtered.length} resource${filtered.length===1?"":"s"}`;
-  grid.hidden = filtered.length === 0;
-  empty.hidden = filtered.length !== 0;
-}
-function escapeHtml(value){return value.replace(/[&<>"']/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[char]));}
-document.getElementById("subjectFilters").addEventListener("click",event=>{
-  const button=event.target.closest("[data-subject]"); if(!button)return;
-  activeSubject=button.dataset.subject;
-  document.querySelectorAll("[data-subject]").forEach(el=>el.classList.toggle("selected",el===button));
-  renderResources();
-});
-document.querySelectorAll("[data-pick-subject]").forEach(button=>button.addEventListener("click",()=>{
-  activeSubject=button.dataset.pickSubject;
-  document.querySelectorAll("[data-subject]").forEach(el=>el.classList.toggle("selected",el.dataset.subject===activeSubject));
-  renderResources();
-  document.getElementById("resources").scrollIntoView({behavior:"smooth"});
-}));
-searchInput.addEventListener("input",renderResources);
-typeFilter.addEventListener("change",renderResources);
-document.getElementById("clearFilters").addEventListener("click",()=>{
-  searchInput.value="";typeFilter.value="All";activeSubject="All";
-  document.querySelectorAll("[data-subject]").forEach(el=>el.classList.toggle("selected",el.dataset.subject==="All"));
-  renderResources();
-});
-const menuToggle=document.getElementById("menuToggle");
-menuToggle.addEventListener("click",()=>{
-  const nav=document.querySelector(".top-nav");
-  const open=nav.classList.toggle("open");
-  menuToggle.setAttribute("aria-expanded",String(open));
-});
-document.querySelectorAll(".top-nav a").forEach(link=>link.addEventListener("click",()=>{
-  document.querySelector(".top-nav").classList.remove("open");
-  menuToggle.setAttribute("aria-expanded","false");
-}));
-document.addEventListener("keydown",event=>{
-  if((event.ctrlKey||event.metaKey)&&event.key.toLowerCase()==="k"){
-    event.preventDefault();searchInput.focus();
-  }
-});
-renderResources();
+const chapters = [["Units and Measurements",["Introduction","The international system of units","Significant figures","Dimensions of physical quantities","Dimensional formulae and dimensional equations","Dimensional analysis and its applications"]],["Motion in a Straight Line",["Introduction","Instantaneous velocity and speed","Acceleration","Kinematic equations for uniformly accelerated motion"]],["Motion in a Plane",["Introduction","Scalars and vectors","Multiplication of vectors by real numbers","Addition and subtraction of vectors – graphical method","Resolution of vectors","Vector addition – analytical method","Motion in a plane","Motion in a plane with constant acceleration","Projectile motion","Uniform circular motion"]],["Laws of Motion",["Introduction","Aristotle's fallacy","The law of inertia","Newton's first law of motion","Newton's second law of motion","Newton's third law of motion","Conservation of momentum","Equilibrium of a particle","Common forces in mechanics","Circular motion","Solving problems in mechanics"]],["Work, Energy and Power",["Introduction","Notions of work and kinetic energy: The work-energy theorem","Work","Kinetic energy","Work done by a variable force","The work-energy theorem for a variable force","The concept of potential energy","The conservation of mechanical energy","The potential energy of a spring","Power","Collisions"]],["System of Particles and Rotational Motion",["Introduction","Centre of mass","Motion of centre of mass","Linear momentum of a system of particles","Vector product of two vectors","Angular velocity and its relation with linear velocity","Torque and angular momentum","Equilibrium of a rigid body","Moment of inertia","Kinematics of rotational motion about a fixed axis","Dynamics of rotational motion about a fixed axis","Angular momentum in case of rotations about a fixed axis"]],["Gravitation",["Introduction","Kepler's laws","Universal law of gravitation","The gravitational constant","Acceleration due to gravity of the earth","Acceleration due to gravity below and above the surface of earth","Gravitational potential energy","Escape speed","Earth satellites","Energy of an orbiting satellite"]],["Mechanical Properties of Solids",["Introduction","Stress and strain","Hooke's law","Stress-strain curve","Elastic moduli","Applications of elastic behaviour of materials"]],["Mechanical Properties of Fluids",["Introduction","Pressure","Streamline flow","Bernoulli's principle","Viscosity","Surface tension"]],["Thermal Properties of Matter",["Introduction","Temperature and heat","Measurement of temperature","Ideal-gas equation and absolute temperature","Thermal expansion","Specific heat capacity","Calorimetry","Change of state","Heat transfer","Newton's law of cooling"]],["Thermodynamics",["Introduction","Thermal equilibrium","Zeroth law of thermodynamics","Heat, internal energy and work","First law of thermodynamics","Specific heat capacity","Thermodynamic state variables and equation of state","Thermodynamic processes","Second law of thermodynamics","Reversible and irreversible processes","Carnot engine"]],["Kinetic Theory",["Introduction","Molecular nature of matter","Behaviour of gases","Kinetic theory of an ideal gas","Law of equipartition of energy","Specific heat capacity","Mean free path"]],["Oscillations",["Introduction","Periodic and oscillatory motions","Simple harmonic motion","Simple harmonic motion and uniform circular motion","Velocity and acceleration in simple harmonic motion","Force law for simple harmonic motion","Energy in simple harmonic motion","The Simple Pendulum"]],["Waves",["Introduction","Transverse and longitudinal waves","Displacement relation in a progressive wave","The speed of a travelling wave","The principle of superposition of waves","Reflection of waves","Beats"]]];
+const resources=chapters.map((c,i)=>({id:i+1,title:'Chapter '+(i+1)+': '+c[0],chapter:c[0],topics:c[1],url:'resources/physics-syllabus.html#chapter-'+(i+1)}));
+const grid=document.getElementById('resourceGrid'),searchInput=document.getElementById('searchInput'),count=document.getElementById('resourceCount'),empty=document.getElementById('emptyState');
+function escapeHtml(s){return String(s).replace(/[&<>\"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',\"'\":'&#39;'}[c]));}
+function renderResources(){const q=searchInput.value.trim().toLowerCase();const list=resources.filter(r=>[r.title,r.chapter,...r.topics].join(' ').toLowerCase().includes(q));grid.innerHTML=list.map((r,i)=>'<article class=\"resource-card\" style=\"animation-delay:'+i*35+'ms\"><div class=\"card-top\"><span class=\"resource-icon physics\">↗</span><span class=\"type-tag\">Chapter '+r.id+'</span></div><h3>'+escapeHtml(r.title)+'</h3><p>'+r.topics.length+' topics and subtopics. '+escapeHtml(r.topics.join(' · '))+'</p><div class=\"card-meta\"><span class=\"card-subject\">Physics · Class 11</span><a class=\"card-link\" href=\"'+r.url+'\">View topics ↗</a></div></article>').join('');count.textContent=q?list.length+' matching chapter'+(list.length===1?'':'s'):'14 chapters';grid.hidden=!list.length;empty.hidden=!!list.length;}
+document.getElementById('clearFilters').addEventListener('click',()=>{searchInput.value='';renderResources();});searchInput.addEventListener('input',renderResources);
+const menuToggle=document.getElementById('menuToggle');menuToggle.addEventListener('click',()=>{const nav=document.querySelector('.top-nav'),open=nav.classList.toggle('open');menuToggle.setAttribute('aria-expanded',String(open));});document.querySelectorAll('.top-nav a').forEach(a=>a.addEventListener('click',()=>{document.querySelector('.top-nav').classList.remove('open');menuToggle.setAttribute('aria-expanded','false');}));document.addEventListener('keydown',e=>{if((e.ctrlKey||e.metaKey)&&e.key.toLowerCase()==='k'){e.preventDefault();searchInput.focus();}});renderResources();
