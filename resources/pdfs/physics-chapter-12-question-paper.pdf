@@ -1,10 +1,10 @@
 %PDF-1.4
-%StudyNest ASCII PDF
+%StudyNest extended practice paper
 1 0 obj
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
@@ -16,53 +16,171 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
 endobj
 6 0 obj
-<< /Length 2451 >>
+<< /Length 2718 >>
 stream
 BT /F2 10 Tf 48 795 Td (STUDYNEST | CLASS 11 PHYSICS) Tj ET
-BT /F2 17 Tf 48 782 Td (QUESTION PAPER 1) Tj ET
-BT /F2 12 Tf 48 762 Td (Chapter 12: Kinetic Theory) Tj ET
-BT /F2 9 Tf 48 747 Td (Maximum Marks: 40 | Suggested time: 60 minutes) Tj ET
-BT /F1 8.5 Tf 48 735 Td (Instructions: Answer all questions. Show calculations and units. Original practice material, not an official) Tj ET
-BT /F1 8.5 Tf 48 723.5 Td (examination.) Tj ET
-BT /F2 9.5 Tf 48 708 Td (Section A - 1-mark questions - 8 x 1 = 8 marks) Tj ET
-BT /F1 8.5 Tf 48 692.5 Td (1. What is an ideal gas model? [1]) Tj ET
-BT /F1 8.5 Tf 48 681 Td (2. Ideal gas equation? [1]) Tj ET
-BT /F1 8.5 Tf 48 669.5 Td (3. Mean translational kinetic energy? [1]) Tj ET
-BT /F1 8.5 Tf 48 658 Td (4. Origin of gas pressure? [1]) Tj ET
-BT /F1 8.5 Tf 48 646.5 Td (5. Monatomic degrees of freedom? [1]) Tj ET
-BT /F1 8.5 Tf 48 635 Td (6. Effect of lowering pressure on mean free path? [1]) Tj ET
-BT /F1 8.5 Tf 48 623.5 Td (7. Molar C_v of monatomic gas? [1]) Tj ET
-BT /F1 8.5 Tf 48 612 Td (8. Rms speed relation? [1]) Tj ET
-BT /F2 9.5 Tf 48 597.5 Td (Section B - 2-mark questions - 6 x 2 = 12 marks) Tj ET
-BT /F1 8.5 Tf 48 582 Td (9. At fixed T, volume halves: pressure? [2]) Tj ET
-BT /F1 8.5 Tf 48 570.5 Td (10. 27 deg C in Kelvin? [2]) Tj ET
-BT /F1 8.5 Tf 48 559 Td (11. Mean kinetic energy at 300K, k=1.38x10^-23? [2]) Tj ET
-BT /F1 8.5 Tf 48 547.5 Td (12. Temperature becomes 4T: rms speed factor? [2]) Tj ET
-BT /F1 8.5 Tf 48 536 Td (13. Internal energy of n mol monatomic gas? [2]) Tj ET
-BT /F1 8.5 Tf 48 524.5 Td (14. Two main ideal gas assumptions? [2]) Tj ET
-BT /F2 9.5 Tf 48 510 Td (Section C - 3-mark questions - 4 x 3 = 12 marks) Tj ET
-BT /F1 8.5 Tf 48 494.5 Td (15. Rms speed of M=.028,T=300K,R=8.31? [3]) Tj ET
-BT /F1 8.5 Tf 48 483 Td (16. 1 mol monatomic gas warms 20K, C_v=3R/2: DeltaU? [3]) Tj ET
-BT /F1 8.5 Tf 48 471.5 Td (17. At fixed T, pressure triples: volume factor? [3]) Tj ET
-BT /F1 8.5 Tf 48 460 Td (18. State equipartition prediction for monatomic gas. [3]) Tj ET
-BT /F2 9.5 Tf 48 445.5 Td (Section D - 4-mark questions - 2 x 4 = 8 marks) Tj ET
-BT /F1 8.5 Tf 48 430 Td (19. Compare rms speeds for molar masses .004 and .016 kg/mol at same T. [4]) Tj ET
-BT /F1 8.5 Tf 48 418.5 Td (20. f=5, n=2 mol, T=300K: internal energy? [4]) Tj ET
-BT /F1 8.5 Tf 48 404 Td (End of paper - check working, units, signs and significant figures.) Tj ET
-BT /F1 8 Tf 430 24 Td (StudyNest | Page 1 of 1) Tj ET
+BT /F2 17 Tf 48 781.7 Td (QUESTION PAPER 1) Tj ET
+BT /F2 12 Tf 48 761.4000000000001 Td (Chapter 12: Kinetic Theory) Tj ET
+BT /F2 9 Tf 48 746.1000000000001 Td (Maximum Marks: 40 | Suggested time: 60 minutes) Tj ET
+BT /F1 8.5 Tf 48 733.8000000000002 Td (Instructions: Answer all questions. Show calculation steps and units. Original practice paper, not an official) Tj ET
+BT /F1 8.5 Tf 48 722.0000000000002 Td (examination.) Tj ET
+BT /F2 9.5 Tf 48 706.2000000000003 Td (Section A 1-mark questions - 8 x 1 = 8 marks) Tj ET
+BT /F1 8.4 Tf 48 690.4000000000003 Td (1. What is an ideal gas model? [1]) Tj ET
+BT /F1 8.4 Tf 48 678.7000000000003 Td (2. Ideal gas equation? [1]) Tj ET
+BT /F1 8.4 Tf 48 667.0000000000002 Td (3. Mean translational kinetic energy? [1]) Tj ET
+BT /F1 8.4 Tf 48 655.3000000000002 Td (4. Origin of gas pressure? [1]) Tj ET
+BT /F1 8.4 Tf 48 643.6000000000001 Td (5. Monatomic degrees of freedom? [1]) Tj ET
+BT /F1 8.4 Tf 48 631.9000000000001 Td (6. Effect of lowering pressure on mean free path? [1]) Tj ET
+BT /F1 8.4 Tf 48 620.2 Td (7. Molar C_v of monatomic gas? [1]) Tj ET
+BT /F1 8.4 Tf 48 608.5 Td (8. Rms speed relation? [1]) Tj ET
+BT /F2 9.5 Tf 48 594.8 Td (Section B 2-mark questions - 6 x 2 = 12 marks) Tj ET
+BT /F1 8.4 Tf 48 579 Td (9. At fixed T, volume halves: pressure? [2]) Tj ET
+BT /F1 8.4 Tf 48 567.3 Td (10. 27C in Kelvin? [2]) Tj ET
+BT /F1 8.4 Tf 48 555.5999999999999 Td (11. Mean kinetic energy at 300K, k=1.38 x 10^-23? [2]) Tj ET
+BT /F1 8.4 Tf 48 543.8999999999999 Td (12. Temperature becomes 4T: rms speed factor? [2]) Tj ET
+BT /F1 8.4 Tf 48 532.1999999999998 Td (13. Internal energy of n mol monatomic gas? [2]) Tj ET
+BT /F1 8.4 Tf 48 520.4999999999998 Td (14. Two main ideal gas assumptions? [2]) Tj ET
+BT /F2 9.5 Tf 48 506.7999999999998 Td (Section C 3-mark questions - 4 x 3 = 12 marks) Tj ET
+BT /F1 8.4 Tf 48 490.9999999999998 Td (15. Rms speed of M=.028,T=300K,R=8.31? [3]) Tj ET
+BT /F1 8.4 Tf 48 479.2999999999998 Td (16. 1 mol monatomic gas warms 20K, C_v=3R/2: DeltaU? [3]) Tj ET
+BT /F1 8.4 Tf 48 467.5999999999998 Td (17. At fixed T, pressure triples: volume factor? [3]) Tj ET
+BT /F1 8.4 Tf 48 455.8999999999998 Td (18. State equipartition prediction for monatomic gas. [3]) Tj ET
+BT /F2 9.5 Tf 48 442.1999999999998 Td (Section D 4-mark questions - 2 x 4 = 8 marks) Tj ET
+BT /F1 8.4 Tf 48 426.3999999999998 Td (19. Compare rms speeds for molar masses .004 and .016 kg/mol at same T. [4]) Tj ET
+BT /F1 8.4 Tf 48 414.6999999999998 Td (20. f=5, n=2 mol, T=300K: internal energy? [4]) Tj ET
+BT /F2 8.5 Tf 48 400.99999999999983 Td (End of question paper.) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 1 of 4) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1223 >>
+stream
+BT /F2 15 Tf 48 795 Td (FORMULA AND EQUATION REFERENCE) Tj ET
+BT /F2 9.5 Tf 48 771.7 Td (Chapter-specific equations and relations) Tj ET
+BT /F1 8.6 Tf 48 758.9000000000001 Td (- Ideal gas equation pV=nRT; for fixed temperature pV=constant \(Boyle's law\).) Tj ET
+BT /F1 8.6 Tf 48 747.0000000000001 Td (- Mean translational kinetic energy per molecule = \(3/2\)k_B T.) Tj ET
+BT /F1 8.6 Tf 48 735.1000000000001 Td (- Molecular kinetic theory: pV=\(1/3\)N m v_rms^2; hence v_rms=sqrt\(3RT/M\).) Tj ET
+BT /F1 8.6 Tf 48 723.2000000000002 Td (- For an ideal gas with f active quadratic degrees of freedom: U=\(f/2\)nRT; Delta U=\(f/2\)nR Delta T.) Tj ET
+BT /F1 8.6 Tf 48 711.3000000000002 Td (- Equipartition: each quadratic degree of freedom contributes \(1/2\)k_B T per molecule.) Tj ET
+BT /F1 8.6 Tf 48 699.4000000000002 Td (- Monatomic molar heat capacity at constant volume C_v=\(3/2\)R.) Tj ET
+BT /F1 8.6 Tf 48 687.5000000000002 Td (- Mean free path increases as pressure decreases at fixed temperature, approximately lambda proportional to 1/p.) Tj ET
+BT /F1 8 Tf 48 675.6000000000003 Td (Use equations only when their assumptions apply; keep units consistent.) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 2 of 4) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 5218 >>
+stream
+BT /F2 15 Tf 48 795 Td (STEP-BY-STEP SOLUTIONS) Tj ET
+BT /F1 8.5 Tf 48 771.7 Td (Concept questions are answered directly; numerical problems show the governing equation and substitution.) Tj ET
+BT /F2 9.5 Tf 48 755.9000000000001 Td (Question 1) Tj ET
+BT /F1 8.2 Tf 48 741.1000000000001 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 729.6000000000001 Td (Apply it here: Negligible molecular volume and forces except during elastic collisions.) Tj ET
+BT /F2 8.5 Tf 48 717.9000000000001 Td (Final answer: Negligible molecular volume and forces except during elastic collisions.) Tj ET
+BT /F2 9.5 Tf 48 703.1000000000001 Td (Question 2) Tj ET
+BT /F1 8.2 Tf 48 688.3000000000002 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 676.8000000000002 Td (Apply it here: pV=nRT.) Tj ET
+BT /F2 8.5 Tf 48 665.1000000000001 Td (Final answer: pV=nRT.) Tj ET
+BT /F2 9.5 Tf 48 650.3000000000002 Td (Question 3) Tj ET
+BT /F1 8.2 Tf 48 635.5000000000002 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 624.0000000000002 Td (Apply it here: 3k_BT/2.) Tj ET
+BT /F2 8.5 Tf 48 612.3000000000002 Td (Final answer: 3k_BT/2.) Tj ET
+BT /F2 9.5 Tf 48 597.5000000000002 Td (Question 4) Tj ET
+BT /F1 8.2 Tf 48 582.7000000000003 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 571.2000000000003 Td (Apply it here: Molecular momentum transfer to walls.) Tj ET
+BT /F2 8.5 Tf 48 559.5000000000002 Td (Final answer: Molecular momentum transfer to walls.) Tj ET
+BT /F2 9.5 Tf 48 544.7000000000003 Td (Question 5) Tj ET
+BT /F1 8.2 Tf 48 529.9000000000003 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 518.4000000000003 Td (Apply it here: Three translational.) Tj ET
+BT /F2 8.5 Tf 48 506.70000000000033 Td (Final answer: Three translational.) Tj ET
+BT /F2 9.5 Tf 48 491.9000000000003 Td (Question 6) Tj ET
+BT /F1 8.2 Tf 48 477.1000000000003 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 465.6000000000003 Td (Apply it here: It increases.) Tj ET
+BT /F2 8.5 Tf 48 453.9000000000003 Td (Final answer: It increases.) Tj ET
+BT /F2 9.5 Tf 48 439.1000000000003 Td (Question 7) Tj ET
+BT /F1 8.2 Tf 48 424.3000000000003 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 412.8000000000003 Td (Apply it here: 3R/2.) Tj ET
+BT /F2 8.5 Tf 48 401.1000000000003 Td (Final answer: 3R/2.) Tj ET
+BT /F2 9.5 Tf 48 386.3000000000003 Td (Question 8) Tj ET
+BT /F1 8.2 Tf 48 371.5000000000003 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 360.0000000000003 Td (Apply it here: sqrt\(3RT/M\).) Tj ET
+BT /F2 8.5 Tf 48 348.3000000000003 Td (Final answer: sqrt\(3RT/M\).) Tj ET
+BT /F2 9.5 Tf 48 333.5000000000003 Td (Question 9) Tj ET
+BT /F1 8.4 Tf 48 318.7000000000003 Td (Working: At fixed T, Boyle's law gives p_1V_1=p_2V_2. If V_2=V_1/2, then p_2=2p_1: pressure doubles.) Tj ET
+BT /F2 8.5 Tf 48 306.0000000000003 Td (Final answer: Doubles.) Tj ET
+BT /F2 9.5 Tf 48 291.2000000000003 Td (Question 10) Tj ET
+BT /F1 8.4 Tf 48 276.40000000000026 Td (Working: T=27+273.15=300.15 K, approximately 300 K.) Tj ET
+BT /F2 8.5 Tf 48 263.7000000000003 Td (Final answer: About 300 K.) Tj ET
+BT /F2 9.5 Tf 48 248.90000000000026 Td (Question 11) Tj ET
+BT /F1 8.4 Tf 48 234.10000000000025 Td (Working: Average kinetic energy=\(3/2\)k_BT=1.5\(1.38x10^-23\)\(300\)=6.21x10^-21 J.) Tj ET
+BT /F2 8.5 Tf 48 221.40000000000026 Td (Final answer: approx 6.21 x 10^-21 J.) Tj ET
+BT /F2 9.5 Tf 48 206.60000000000025 Td (Question 12) Tj ET
+BT /F1 8.4 Tf 48 191.80000000000024 Td (Working: v_rms=sqrt\(3RT/M\), so at fixed gas and molar mass v_rms proportional to sqrt\(T\). If T becomes 4T, speed is) Tj ET
+BT /F1 8.4 Tf 48 180.10000000000025 Td (multiplied by sqrt4=2.) Tj ET
+BT /F2 8.5 Tf 48 167.40000000000026 Td (Final answer: 2.) Tj ET
+BT /F2 9.5 Tf 48 152.60000000000025 Td (Question 13) Tj ET
+BT /F1 8.4 Tf 48 137.80000000000024 Td (Working: For a monatomic ideal gas U=\(3/2\)nRT. Use the number of moles n and absolute temperature T.) Tj ET
+BT /F2 8.5 Tf 48 125.10000000000024 Td (Final answer: 3nRT/2.) Tj ET
+BT /F2 9.5 Tf 48 110.30000000000024 Td (Question 14) Tj ET
+BT /F1 8.4 Tf 48 95.50000000000024 Td (Working: Assumption 1: molecules have negligible volume compared with the container. Assumption 2: intermolecular) Tj ET
+BT /F1 8.4 Tf 48 83.80000000000024 Td (forces are negligible except during brief elastic collisions.) Tj ET
+BT /F2 8.5 Tf 48 71.10000000000024 Td (Final answer: Negligible particle volume and negligible intermolecular forces except collisions.) Tj ET
+BT /F2 9.5 Tf 48 56.30000000000024 Td (Question 15) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 3 of 4) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2009 >>
+stream
+BT /F1 8.4 Tf 48 795 Td (Working: v_rms=sqrt\(3RT/M\)=sqrt[3\(8.31\)\(300\)/0.028]=sqrt\(266,785.7\)=516.5 m/s, approximately 517 m/s.) Tj ET
+BT /F2 8.5 Tf 48 782.3 Td (Final answer: approx 517 m/s.) Tj ET
+BT /F2 9.5 Tf 48 767.5 Td (Question 16) Tj ET
+BT /F1 8.4 Tf 48 752.7 Td (Working: C_v=\(3/2\)R. Delta U=nC_vDelta T=1\(1.5\)\(8.31\)\(20\)=249.3 J, approximately 249 J.) Tj ET
+BT /F2 8.5 Tf 48 740 Td (Final answer: approx 249 J.) Tj ET
+BT /F2 9.5 Tf 48 725.2 Td (Question 17) Tj ET
+BT /F1 8.4 Tf 48 710.4000000000001 Td (Working: At fixed T, pV=constant. If pressure triples, p_2=3p_1, so V_2=V_1/3.) Tj ET
+BT /F2 8.5 Tf 48 697.7 Td (Final answer: One-third.) Tj ET
+BT /F2 9.5 Tf 48 682.9000000000001 Td (Question 18) Tj ET
+BT /F1 8.4 Tf 48 668.1000000000001 Td (Working: Equipartition assigns \(1/2\)k_BT to each independent quadratic degree of freedom. A monatomic ideal-gas) Tj ET
+BT /F1 8.4 Tf 48 656.4000000000001 Td (molecule has 3 translational degrees, so its mean translational energy is 3\(1/2\)k_BT=3k_BT/2.) Tj ET
+BT /F2 8.5 Tf 48 643.7 Td (Final answer: Three translational modes contribute 3k_BT/2 per molecule.) Tj ET
+BT /F2 9.5 Tf 48 628.9000000000001 Td (Question 19) Tj ET
+BT /F1 8.4 Tf 48 614.1000000000001 Td (Working: At the same T, v_rms is proportional to 1/sqrt\(M\). The ratio v_\(0.004\)/v_\(0.016\)=sqrt\(0.016/0.004\)=sqrt4=2,) Tj ET
+BT /F1 8.4 Tf 48 602.4000000000001 Td (so the lighter gas is twice as fast.) Tj ET
+BT /F2 8.5 Tf 48 589.7 Td (Final answer: Lighter gas speed is twice as high.) Tj ET
+BT /F2 9.5 Tf 48 574.9000000000001 Td (Question 20) Tj ET
+BT /F1 8.4 Tf 48 560.1000000000001 Td (Working: U=\(f/2\)nRT=\(5/2\)\(2\)\(8.31\)\(300\)=24,930 J, approximately 24.9 kJ. \(The paper's original approximate answer of) Tj ET
+BT /F1 8.4 Tf 48 548.4000000000001 Td (12.5 kJ omits the factor n=2; this worked solution corrects it.\)) Tj ET
+BT /F2 8.5 Tf 48 535.7 Td (Final answer: U=\(5/2\)nRTapprox 12.5 kJ.) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 4 of 4) Tj ET
 endstream
 endobj
 xref
-0 7
+0 13
 0000000000 65535 f 
-0000000030 00000 n 
-0000000079 00000 n 
-0000000136 00000 n 
-0000000206 00000 n 
-0000000281 00000 n 
-0000000417 00000 n 
+0000000044 00000 n 
+0000000093 00000 n 
+0000000169 00000 n 
+0000000239 00000 n 
+0000000314 00000 n 
+0000000450 00000 n 
+0000003219 00000 n 
+0000003355 00000 n 
+0000004629 00000 n 
+0000004766 00000 n 
+0000010036 00000 n 
+0000010174 00000 n 
 trailer
-<< /Size 7 /Root 1 0 R >>
+<< /Size 13 /Root 1 0 R >>
 startxref
-2919
+12235
 %%EOF

@@ -1,10 +1,10 @@
 %PDF-1.4
-%StudyNest ASCII PDF
+%StudyNest extended practice paper
 1 0 obj
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
@@ -16,54 +16,175 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
 endobj
 6 0 obj
-<< /Length 2564 >>
+<< /Length 2847 >>
 stream
 BT /F2 10 Tf 48 795 Td (STUDYNEST | CLASS 11 PHYSICS) Tj ET
-BT /F2 17 Tf 48 782 Td (QUESTION PAPER 1) Tj ET
-BT /F2 12 Tf 48 762 Td (Chapter 11: Thermodynamics) Tj ET
-BT /F2 9 Tf 48 747 Td (Maximum Marks: 40 | Suggested time: 60 minutes) Tj ET
-BT /F1 8.5 Tf 48 735 Td (Instructions: Answer all questions. Show calculations and units. Original practice material, not an official) Tj ET
-BT /F1 8.5 Tf 48 723.5 Td (examination.) Tj ET
-BT /F2 9.5 Tf 48 708 Td (Section A - 1-mark questions - 8 x 1 = 8 marks) Tj ET
-BT /F1 8.5 Tf 48 692.5 Td (1. State the zeroth law. [1]) Tj ET
-BT /F1 8.5 Tf 48 681 Td (2. Define internal energy. [1]) Tj ET
-BT /F1 8.5 Tf 48 669.5 Td (3. First law with W done by system? [1]) Tj ET
-BT /F1 8.5 Tf 48 658 Td (4. Meaning of adiabatic? [1]) Tj ET
-BT /F1 8.5 Tf 48 646.5 Td (5. Meaning of isothermal? [1]) Tj ET
-BT /F1 8.5 Tf 48 635 Td (6. Can a cyclic heat engine be 100% efficient? [1]) Tj ET
-BT /F1 8.5 Tf 48 623.5 Td (7. Ideal gas equation? [1]) Tj ET
-BT /F1 8.5 Tf 48 612 Td (8. Carnot efficiency? [1]) Tj ET
-BT /F2 9.5 Tf 48 597.5 Td (Section B - 2-mark questions - 6 x 2 = 12 marks) Tj ET
-BT /F1 8.5 Tf 48 582 Td (9. At constant volume, 500 J heat added: work? [2]) Tj ET
-BT /F1 8.5 Tf 48 570.5 Td (10. Gas absorbs 800 J and does 300 J work: DeltaU? [2]) Tj ET
-BT /F1 8.5 Tf 48 559 Td (11. Carnot T_h=600K,T_c=300K: efficiency? [2]) Tj ET
-BT /F1 8.5 Tf 48 547.5 Td (12. Ideal-gas isothermal process: DeltaU? [2]) Tj ET
-BT /F1 8.5 Tf 48 536 Td (13. 1 mol with C_v=20 J/mol K and DeltaT=5 K: DeltaU? [2]) Tj ET
-BT /F1 8.5 Tf 48 524.5 Td (14. Isothermal versus adiabatic? [2]) Tj ET
-BT /F2 9.5 Tf 48 510 Td (Section C - 3-mark questions - 4 x 3 = 12 marks) Tj ET
-BT /F1 8.5 Tf 48 494.5 Td (15. Gas absorbs 1000 J and does 400 J work: DeltaU? [3]) Tj ET
-BT /F1 8.5 Tf 48 483 Td (16. Carnot T_h=500K,T_c=300K: ? [3]) Tj ET
-BT /F1 8.5 Tf 48 471.5 Td (17. Isobaric gas expands .01 to .03 m^3 at 100 kPa. Work? [3]) Tj ET
-BT /F1 8.5 Tf 48 460 Td (18. Why no real cyclic engine converts all heat to work? [3]) Tj ET
-BT /F2 9.5 Tf 48 445.5 Td (Section D - 4-mark questions - 2 x 4 = 8 marks) Tj ET
-BT /F1 8.5 Tf 48 430 Td (19. Explain reversible and irreversible processes with examples. [4]) Tj ET
-BT /F1 8.5 Tf 48 418.5 Td (20. Engine absorbs 1500 J from 600K, rejects to 300K; actual work=500J. Find Carnot limit, actual efficiency and) Tj ET
-BT /F1 8.5 Tf 48 407 Td (Qout. [4]) Tj ET
-BT /F1 8.5 Tf 48 392.5 Td (End of paper - check working, units, signs and significant figures.) Tj ET
-BT /F1 8 Tf 430 24 Td (StudyNest | Page 1 of 1) Tj ET
+BT /F2 17 Tf 48 781.7 Td (QUESTION PAPER 1) Tj ET
+BT /F2 12 Tf 48 761.4000000000001 Td (Chapter 11: Thermodynamics) Tj ET
+BT /F2 9 Tf 48 746.1000000000001 Td (Maximum Marks: 40 | Suggested time: 60 minutes) Tj ET
+BT /F1 8.5 Tf 48 733.8000000000002 Td (Instructions: Answer all questions. Show calculation steps and units. Original practice paper, not an official) Tj ET
+BT /F1 8.5 Tf 48 722.0000000000002 Td (examination.) Tj ET
+BT /F2 9.5 Tf 48 706.2000000000003 Td (Section A 1-mark questions - 8 x 1 = 8 marks) Tj ET
+BT /F1 8.4 Tf 48 690.4000000000003 Td (1. State the zeroth law. [1]) Tj ET
+BT /F1 8.4 Tf 48 678.7000000000003 Td (2. Define internal energy. [1]) Tj ET
+BT /F1 8.4 Tf 48 667.0000000000002 Td (3. First law with W done by system? [1]) Tj ET
+BT /F1 8.4 Tf 48 655.3000000000002 Td (4. Meaning of adiabatic? [1]) Tj ET
+BT /F1 8.4 Tf 48 643.6000000000001 Td (5. Meaning of isothermal? [1]) Tj ET
+BT /F1 8.4 Tf 48 631.9000000000001 Td (6. Can a cyclic heat engine be 100% efficient? [1]) Tj ET
+BT /F1 8.4 Tf 48 620.2 Td (7. Ideal gas equation? [1]) Tj ET
+BT /F1 8.4 Tf 48 608.5 Td (8. Carnot efficiency? [1]) Tj ET
+BT /F2 9.5 Tf 48 594.8 Td (Section B 2-mark questions - 6 x 2 = 12 marks) Tj ET
+BT /F1 8.4 Tf 48 579 Td (9. At constant volume, 500 J heat added: work? [2]) Tj ET
+BT /F1 8.4 Tf 48 567.3 Td (10. Gas absorbs 800 J and does 300 J work: DeltaU? [2]) Tj ET
+BT /F1 8.4 Tf 48 555.5999999999999 Td (11. Carnot T_h=600K,T_c=300K: efficiency? [2]) Tj ET
+BT /F1 8.4 Tf 48 543.8999999999999 Td (12. Ideal-gas isothermal process: DeltaU? [2]) Tj ET
+BT /F1 8.4 Tf 48 532.1999999999998 Td (13. 1 mol with C_v=20 J/mol K and DeltaT=5 K: DeltaU? [2]) Tj ET
+BT /F1 8.4 Tf 48 520.4999999999998 Td (14. Isothermal versus adiabatic? [2]) Tj ET
+BT /F2 9.5 Tf 48 506.7999999999998 Td (Section C 3-mark questions - 4 x 3 = 12 marks) Tj ET
+BT /F1 8.4 Tf 48 490.9999999999998 Td (15. Gas absorbs 1000 J and does 400 J work: DeltaU? [3]) Tj ET
+BT /F1 8.4 Tf 48 479.2999999999998 Td (16. Carnot T_h=500K,T_c=300K: ? [3]) Tj ET
+BT /F1 8.4 Tf 48 467.5999999999998 Td (17. Isobaric gas expands .01 to .03 m^3 at 100 kPa. Work? [3]) Tj ET
+BT /F1 8.4 Tf 48 455.8999999999998 Td (18. Why no real cyclic engine converts all heat to work? [3]) Tj ET
+BT /F2 9.5 Tf 48 442.1999999999998 Td (Section D 4-mark questions - 2 x 4 = 8 marks) Tj ET
+BT /F1 8.4 Tf 48 426.3999999999998 Td (19. Explain reversible and irreversible processes with examples. [4]) Tj ET
+BT /F1 8.4 Tf 48 414.6999999999998 Td (20. Engine absorbs 1500 J from 600K, rejects to 300K; actual work=500J. Find Carnot limit, actual efficiency and) Tj ET
+BT /F1 8.4 Tf 48 402.99999999999983 Td (Qout. [4]) Tj ET
+BT /F2 8.5 Tf 48 389.29999999999984 Td (End of question paper.) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 1 of 4) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1376 >>
+stream
+BT /F2 15 Tf 48 795 Td (FORMULA AND EQUATION REFERENCE) Tj ET
+BT /F2 9.5 Tf 48 771.7 Td (Chapter-specific equations and relations) Tj ET
+BT /F1 8.6 Tf 48 758.9000000000001 Td (- First law with W done by the system: Q=Delta U+W; equivalently Delta U=Q-W.) Tj ET
+BT /F1 8.6 Tf 48 747.0000000000001 Td (- Boundary work W=integral p dV; at constant pressure W=p Delta V; at constant volume W=0.) Tj ET
+BT /F1 8.6 Tf 48 735.1000000000001 Td (- For an ideal gas, internal energy depends only on temperature; for isothermal change Delta U=0.) Tj ET
+BT /F1 8.6 Tf 48 723.2000000000002 Td (- For n moles: Delta U=n C_v Delta T; for a monatomic ideal gas C_v=\(3/2\)R.) Tj ET
+BT /F1 8.6 Tf 48 711.3000000000002 Td (- Carnot efficiency eta=1-T_c/T_h, with temperatures in kelvin; this is the maximum possible efficiency.) Tj ET
+BT /F1 8.6 Tf 48 699.4000000000002 Td (- Energy balance over a cycle: Q_in=W+Q_out; actual efficiency eta=W/Q_in.) Tj ET
+BT /F1 8.6 Tf 48 687.5000000000002 Td (- Adiabatic process: Q=0. Isothermal process: temperature constant. Cyclic process: net Delta U=0.) Tj ET
+BT /F1 8.6 Tf 48 675.6000000000003 Td (- Second law: no cyclic heat engine can convert all absorbed heat into work.) Tj ET
+BT /F1 8 Tf 48 663.7000000000003 Td (Use equations only when their assumptions apply; keep units consistent.) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 2 of 4) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 4991 >>
+stream
+BT /F2 15 Tf 48 795 Td (STEP-BY-STEP SOLUTIONS) Tj ET
+BT /F1 8.5 Tf 48 771.7 Td (Concept questions are answered directly; numerical problems show the governing equation and substitution.) Tj ET
+BT /F2 9.5 Tf 48 755.9000000000001 Td (Question 1) Tj ET
+BT /F1 8.2 Tf 48 741.1000000000001 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 729.6000000000001 Td (Apply it here: Thermal equilibrium is transitive.) Tj ET
+BT /F2 8.5 Tf 48 717.9000000000001 Td (Final answer: Thermal equilibrium is transitive.) Tj ET
+BT /F2 9.5 Tf 48 703.1000000000001 Td (Question 2) Tj ET
+BT /F1 8.2 Tf 48 688.3000000000002 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 676.8000000000002 Td (Apply it here: Microscopic energy of molecules and their interactions.) Tj ET
+BT /F2 8.5 Tf 48 665.1000000000001 Td (Final answer: Microscopic energy of molecules and their interactions.) Tj ET
+BT /F2 9.5 Tf 48 650.3000000000002 Td (Question 3) Tj ET
+BT /F1 8.2 Tf 48 635.5000000000002 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 624.0000000000002 Td (Apply it here: Q=DeltaU+W.) Tj ET
+BT /F2 8.5 Tf 48 612.3000000000002 Td (Final answer: Q=DeltaU+W.) Tj ET
+BT /F2 9.5 Tf 48 597.5000000000002 Td (Question 4) Tj ET
+BT /F1 8.2 Tf 48 582.7000000000003 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 571.2000000000003 Td (Apply it here: Q=0.) Tj ET
+BT /F2 8.5 Tf 48 559.5000000000002 Td (Final answer: Q=0.) Tj ET
+BT /F2 9.5 Tf 48 544.7000000000003 Td (Question 5) Tj ET
+BT /F1 8.2 Tf 48 529.9000000000003 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 518.4000000000003 Td (Apply it here: Temperature constant.) Tj ET
+BT /F2 8.5 Tf 48 506.70000000000033 Td (Final answer: Temperature constant.) Tj ET
+BT /F2 9.5 Tf 48 491.9000000000003 Td (Question 6) Tj ET
+BT /F1 8.2 Tf 48 477.1000000000003 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 465.6000000000003 Td (Apply it here: No.) Tj ET
+BT /F2 8.5 Tf 48 453.9000000000003 Td (Final answer: No.) Tj ET
+BT /F2 9.5 Tf 48 439.1000000000003 Td (Question 7) Tj ET
+BT /F1 8.2 Tf 48 424.3000000000003 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 412.8000000000003 Td (Apply it here: pV=nRT.) Tj ET
+BT /F2 8.5 Tf 48 401.1000000000003 Td (Final answer: pV=nRT.) Tj ET
+BT /F2 9.5 Tf 48 386.3000000000003 Td (Question 8) Tj ET
+BT /F1 8.2 Tf 48 371.5000000000003 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 360.0000000000003 Td (Apply it here: 1-T_c/T_h.) Tj ET
+BT /F2 8.5 Tf 48 348.3000000000003 Td (Final answer: 1-T_c/T_h.) Tj ET
+BT /F2 9.5 Tf 48 333.5000000000003 Td (Question 9) Tj ET
+BT /F1 8.4 Tf 48 318.7000000000003 Td (Working: At constant volume, Delta V=0. Boundary work W=integral p dV=0. This assumes no other kind of work is) Tj ET
+BT /F1 8.4 Tf 48 307.0000000000003 Td (involved.) Tj ET
+BT /F2 8.5 Tf 48 294.3000000000003 Td (Final answer: Zero boundary work.) Tj ET
+BT /F2 9.5 Tf 48 279.5000000000003 Td (Question 10) Tj ET
+BT /F1 8.4 Tf 48 264.7000000000003 Td (Working: First law gives Delta U=Q-W=800-300=500 J.) Tj ET
+BT /F2 8.5 Tf 48 252.00000000000028 Td (Final answer: 500 J.) Tj ET
+BT /F2 9.5 Tf 48 237.20000000000027 Td (Question 11) Tj ET
+BT /F1 8.4 Tf 48 222.40000000000026 Td (Working: eta=1-T_c/T_h=1-300/600=0.5=50%.) Tj ET
+BT /F2 8.5 Tf 48 209.70000000000027 Td (Final answer: 50%.) Tj ET
+BT /F2 9.5 Tf 48 194.90000000000026 Td (Question 12) Tj ET
+BT /F1 8.4 Tf 48 180.10000000000025 Td (Working: For an ideal gas, internal energy depends only on temperature. Isothermal means Delta T=0, so Delta U=0.) Tj ET
+BT /F2 8.5 Tf 48 167.40000000000026 Td (Final answer: Zero.) Tj ET
+BT /F2 9.5 Tf 48 152.60000000000025 Td (Question 13) Tj ET
+BT /F1 8.4 Tf 48 137.80000000000024 Td (Working: Delta U=nC_vDelta T=\(1 mol\)\(20 J mol^-1 K^-1\)\(5 K\)=100 J.) Tj ET
+BT /F2 8.5 Tf 48 125.10000000000024 Td (Final answer: 100 J.) Tj ET
+BT /F2 9.5 Tf 48 110.30000000000024 Td (Question 14) Tj ET
+BT /F1 8.4 Tf 48 95.50000000000024 Td (Working: Isothermal means temperature remains constant and heat may flow to keep it so. Adiabatic means Q=0;) Tj ET
+BT /F1 8.4 Tf 48 83.80000000000024 Td (temperature may change as work is done.) Tj ET
+BT /F2 8.5 Tf 48 71.10000000000024 Td (Final answer: Isothermal: T constant; adiabatic: Q=0.) Tj ET
+BT /F2 9.5 Tf 48 56.30000000000024 Td (Question 15) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 3 of 4) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2087 >>
+stream
+BT /F1 8.4 Tf 48 795 Td (Working: Delta U=Q-W=1000-400=600 J.) Tj ET
+BT /F2 8.5 Tf 48 782.3 Td (Final answer: 600 J.) Tj ET
+BT /F2 9.5 Tf 48 767.5 Td (Question 16) Tj ET
+BT /F1 8.4 Tf 48 752.7 Td (Working: eta=1-T_c/T_h=1-300/500=0.4=40%.) Tj ET
+BT /F2 8.5 Tf 48 740 Td (Final answer: 40%.) Tj ET
+BT /F2 9.5 Tf 48 725.2 Td (Question 17) Tj ET
+BT /F1 8.4 Tf 48 710.4000000000001 Td (Working: For constant pressure, W=p Delta V. Delta V=0.03-0.01=0.02 m^3; p=100 kPa=100,000 Pa. W=100,000\(0.02\)=2000) Tj ET
+BT /F1 8.4 Tf 48 698.7 Td (J.) Tj ET
+BT /F2 8.5 Tf 48 686 Td (Final answer: W=pDeltaV=2000 J.) Tj ET
+BT /F2 9.5 Tf 48 671.2 Td (Question 18) Tj ET
+BT /F1 8.4 Tf 48 656.4000000000001 Td (Working: The second law requires some heat rejection or another entropy increase for a cyclic engine. Therefore a) Tj ET
+BT /F1 8.4 Tf 48 644.7 Td (real cyclic engine cannot convert all absorbed heat into work.) Tj ET
+BT /F2 8.5 Tf 48 632 Td (Final answer: Second law requires rejected heat or other entropy increase.) Tj ET
+BT /F2 9.5 Tf 48 617.2 Td (Question 19) Tj ET
+BT /F1 8.4 Tf 48 602.4000000000001 Td (Working: A reversible process is an ideal quasi-static process with no dissipative effects and can be reversed by an) Tj ET
+BT /F1 8.4 Tf 48 590.7 Td (infinitesimal change. Examples: ideal slow frictionless compression. Irreversible processes involve friction,) Tj ET
+BT /F1 8.4 Tf 48 579 Td (turbulence or heat flow across a finite temperature difference; real expansion with friction is an example.) Tj ET
+BT /F2 8.5 Tf 48 566.3 Td (Final answer: Reversible: ideal quasi-static frictionless; irreversible: friction or finite-temperature heat flow.) Tj ET
+BT /F2 9.5 Tf 48 551.5 Td (Question 20) Tj ET
+BT /F1 8.4 Tf 48 536.7 Td (Working: Carnot limit eta=1-300/600=0.50=50%. Actual efficiency=work/heat input=500/1500=0.333=33.3%. Energy balance) Tj ET
+BT /F1 8.4 Tf 48 525 Td (Q_in=W+Q_out, so Q_out=1500-500=1000 J.) Tj ET
+BT /F2 8.5 Tf 48 512.3 Td (Final answer: Carnot limit 50%; actual efficiency 33.3%; Qout=1000 J.) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 4 of 4) Tj ET
 endstream
 endobj
 xref
-0 7
+0 13
 0000000000 65535 f 
-0000000030 00000 n 
-0000000079 00000 n 
-0000000136 00000 n 
-0000000206 00000 n 
-0000000281 00000 n 
-0000000417 00000 n 
+0000000044 00000 n 
+0000000093 00000 n 
+0000000169 00000 n 
+0000000239 00000 n 
+0000000314 00000 n 
+0000000450 00000 n 
+0000003348 00000 n 
+0000003484 00000 n 
+0000004911 00000 n 
+0000005048 00000 n 
+0000010091 00000 n 
+0000010229 00000 n 
 trailer
-<< /Size 7 /Root 1 0 R >>
+<< /Size 13 /Root 1 0 R >>
 startxref
-3032
+12368
 %%EOF

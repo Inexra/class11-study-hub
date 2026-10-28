@@ -1,10 +1,10 @@
 %PDF-1.4
-%StudyNest ASCII PDF
+%StudyNest extended practice paper
 1 0 obj
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
@@ -16,53 +16,172 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
 endobj
 6 0 obj
-<< /Length 2485 >>
+<< /Length 2757 >>
 stream
 BT /F2 10 Tf 48 795 Td (STUDYNEST | CLASS 11 PHYSICS) Tj ET
-BT /F2 17 Tf 48 782 Td (QUESTION PAPER 1) Tj ET
-BT /F2 12 Tf 48 762 Td (Chapter 1: Units and Measurements) Tj ET
-BT /F2 9 Tf 48 747 Td (Maximum Marks: 40 | Suggested time: 60 minutes) Tj ET
-BT /F1 8.5 Tf 48 735 Td (Instructions: Answer all questions. Show calculations and units. Original practice material, not an official) Tj ET
-BT /F1 8.5 Tf 48 723.5 Td (examination.) Tj ET
-BT /F2 9.5 Tf 48 708 Td (Section A - 1-mark questions - 8 x 1 = 8 marks) Tj ET
-BT /F1 8.5 Tf 48 692.5 Td (1. How many SI base quantities? [1]) Tj ET
-BT /F1 8.5 Tf 48 681 Td (2. SI unit of temperature? [1]) Tj ET
-BT /F1 8.5 Tf 48 669.5 Td (3. Significant figures in 0.00450? [1]) Tj ET
-BT /F1 8.5 Tf 48 658 Td (4. Dimensions of speed? [1]) Tj ET
-BT /F1 8.5 Tf 48 646.5 Td (5. Dimensions of force? [1]) Tj ET
-BT /F1 8.5 Tf 48 635 Td (6. Is length/length dimensionless? [1]) Tj ET
-BT /F1 8.5 Tf 48 623.5 Td (7. Can dimensional analysis determine pi? [1]) Tj ET
-BT /F1 8.5 Tf 48 612 Td (8. SI unit of pressure? [1]) Tj ET
-BT /F2 9.5 Tf 48 597.5 Td (Section B - 2-mark questions - 6 x 2 = 12 marks) Tj ET
-BT /F1 8.5 Tf 48 582 Td (9. Round 12.486 to 3 significant figures. [2]) Tj ET
-BT /F1 8.5 Tf 48 570.5 Td (10. Dimensions of momentum mv? [2]) Tj ET
-BT /F1 8.5 Tf 48 559 Td (11. Check s=ut+at^2 dimensionally. [2]) Tj ET
-BT /F1 8.5 Tf 48 547.5 Td (12. Convert 72 km/h to m/s. [2]) Tj ET
-BT /F1 8.5 Tf 48 536 Td (13. Significant figures in 5.070x10^3? [2]) Tj ET
-BT /F1 8.5 Tf 48 524.5 Td (14. Why can't dimensions distinguish work and torque? [2]) Tj ET
-BT /F2 9.5 Tf 48 510 Td (Section C - 3-mark questions - 4 x 3 = 12 marks) Tj ET
-BT /F1 8.5 Tf 48 494.5 Td (15. Derive pendulum period dependence T proportional to l^ag^b. [3]) Tj ET
-BT /F1 8.5 Tf 48 483 Td (16. Sphere radius 2.00 cm: volume to 3 s.f.? [3]) Tj ET
-BT /F1 8.5 Tf 48 471.5 Td (17. Dimensions of G from F=Gm_1m_2/r^2? [3]) Tj ET
-BT /F1 8.5 Tf 48 460 Td (18. 15.2 cm x 3.4 cm: area with correct precision? [3]) Tj ET
-BT /F2 9.5 Tf 48 445.5 Td (Section D - 4-mark questions - 2 x 4 = 8 marks) Tj ET
-BT /F1 8.5 Tf 48 430 Td (19. Spring-mass period T proportional to m^ak^b, [k]=MT^-2. Find exponents. [4]) Tj ET
-BT /F1 8.5 Tf 48 418.5 Td (20. Calculated volume is 18.237 cm^3, least precise input 3 s.f. What is reported? [4]) Tj ET
-BT /F1 8.5 Tf 48 404 Td (End of paper - check working, units, signs and significant figures.) Tj ET
-BT /F1 8 Tf 430 24 Td (StudyNest | Page 1 of 1) Tj ET
+BT /F2 17 Tf 48 781.7 Td (QUESTION PAPER 1) Tj ET
+BT /F2 12 Tf 48 761.4000000000001 Td (Chapter 1: Units and Measurements) Tj ET
+BT /F2 9 Tf 48 746.1000000000001 Td (Maximum Marks: 40 | Suggested time: 60 minutes) Tj ET
+BT /F1 8.5 Tf 48 733.8000000000002 Td (Instructions: Answer all questions. Show calculation steps and units. Original practice paper, not an official) Tj ET
+BT /F1 8.5 Tf 48 722.0000000000002 Td (examination.) Tj ET
+BT /F2 9.5 Tf 48 706.2000000000003 Td (Section A 1-mark questions - 8 x 1 = 8 marks) Tj ET
+BT /F1 8.4 Tf 48 690.4000000000003 Td (1. How many SI base quantities? [1]) Tj ET
+BT /F1 8.4 Tf 48 678.7000000000003 Td (2. SI unit of temperature? [1]) Tj ET
+BT /F1 8.4 Tf 48 667.0000000000002 Td (3. Significant figures in 0.00450? [1]) Tj ET
+BT /F1 8.4 Tf 48 655.3000000000002 Td (4. Dimensions of speed? [1]) Tj ET
+BT /F1 8.4 Tf 48 643.6000000000001 Td (5. Dimensions of force? [1]) Tj ET
+BT /F1 8.4 Tf 48 631.9000000000001 Td (6. Is length/length dimensionless? [1]) Tj ET
+BT /F1 8.4 Tf 48 620.2 Td (7. Can dimensional analysis determine pi? [1]) Tj ET
+BT /F1 8.4 Tf 48 608.5 Td (8. SI unit of pressure? [1]) Tj ET
+BT /F2 9.5 Tf 48 594.8 Td (Section B 2-mark questions - 6 x 2 = 12 marks) Tj ET
+BT /F1 8.4 Tf 48 579 Td (9. Round 12.486 to 3 significant figures. [2]) Tj ET
+BT /F1 8.4 Tf 48 567.3 Td (10. Dimensions of momentum mv? [2]) Tj ET
+BT /F1 8.4 Tf 48 555.5999999999999 Td (11. Check s=ut+at^2 dimensionally. [2]) Tj ET
+BT /F1 8.4 Tf 48 543.8999999999999 Td (12. Convert 72 km/h to m/s. [2]) Tj ET
+BT /F1 8.4 Tf 48 532.1999999999998 Td (13. Significant figures in 5.070 x 10^3? [2]) Tj ET
+BT /F1 8.4 Tf 48 520.4999999999998 Td (14. Why can't dimensions distinguish work and torque? [2]) Tj ET
+BT /F2 9.5 Tf 48 506.7999999999998 Td (Section C 3-mark questions - 4 x 3 = 12 marks) Tj ET
+BT /F1 8.4 Tf 48 490.9999999999998 Td (15. Derive pendulum period dependence T proportional to l^ag^b. [3]) Tj ET
+BT /F1 8.4 Tf 48 479.2999999999998 Td (16. Sphere radius 2.00 cm: volume to 3 s.f.? [3]) Tj ET
+BT /F1 8.4 Tf 48 467.5999999999998 Td (17. Dimensions of G from F=Gm_1m_2/r^2? [3]) Tj ET
+BT /F1 8.4 Tf 48 455.8999999999998 Td (18. 15.2 cm x 3.4 cm: area with correct precision? [3]) Tj ET
+BT /F2 9.5 Tf 48 442.1999999999998 Td (Section D 4-mark questions - 2 x 4 = 8 marks) Tj ET
+BT /F1 8.4 Tf 48 426.3999999999998 Td (19. Spring-mass period T proportional to m^ak^b, [k]=MT^-2. Find exponents. [4]) Tj ET
+BT /F1 8.4 Tf 48 414.6999999999998 Td (20. Calculated volume is 18.237 cm^3, least precise input 3 s.f. What is reported? [4]) Tj ET
+BT /F2 8.5 Tf 48 400.99999999999983 Td (End of question paper.) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 1 of 4) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1463 >>
+stream
+BT /F2 15 Tf 48 795 Td (FORMULA AND EQUATION REFERENCE) Tj ET
+BT /F2 9.5 Tf 48 771.7 Td (Chapter-specific equations worth knowing) Tj ET
+BT /F1 8.6 Tf 48 758.9000000000001 Td (- Speed: v = distance/time; velocity: v = displacement/time; acceleration: a = Delta v/Delta t.) Tj ET
+BT /F1 8.6 Tf 48 747.0000000000001 Td (- Dimensions: [v]=LT^-1; [a]=LT^-2; [F]=MLT^-2; [momentum]=MLT^-1; [pressure]=ML^-1T^-2; [G]=M^-1L^3T^-2.) Tj ET
+BT /F1 8.6 Tf 48 735.1000000000001 Td (- Dimensional check: every term in an equation must have identical dimensions.) Tj ET
+BT /F1 8.6 Tf 48 723.2000000000002 Td (- Dimensional method for T proportional to l^a g^b: [T]=L^a\(LT^-2\)^b, so a+b=0 and -2b=1.) Tj ET
+BT /F1 8.6 Tf 48 711.3000000000002 Td (- Spring period dependence: T proportional to m^a k^b with [k]=MT^-2; compare mass and time powers.) Tj ET
+BT /F1 8.6 Tf 48 699.4000000000002 Td (- Sphere volume V = \(4/3\) pi r^3; rectangle area A = length x breadth.) Tj ET
+BT /F1 8.6 Tf 48 687.5000000000002 Td (- Unit conversion: 1 m/s = 3.6 km/h; 1 km/h = 5/18 m/s.) Tj ET
+BT /F1 8.6 Tf 48 675.6000000000003 Td (- Rounding: keep the requested significant figures; for multiplication/division, report to the least precise) Tj ET
+BT /F1 8.6 Tf 48 663.7000000000003 Td (input's significant figures.) Tj ET
+BT /F1 8 Tf 48 651.8000000000003 Td (Use each equation only when its assumptions apply; keep units consistent.) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 2 of 4) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 4914 >>
+stream
+BT /F2 15 Tf 48 795 Td (STEP-BY-STEP SOLUTIONS) Tj ET
+BT /F1 8.5 Tf 48 771.7 Td (Solutions are grouped here after the question paper and formula reference.) Tj ET
+BT /F2 9.5 Tf 48 755.9000000000001 Td (Question 1) Tj ET
+BT /F1 8.2 Tf 48 741.1000000000001 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 729.6000000000001 Td (Apply it to this question: Seven.) Tj ET
+BT /F2 8.5 Tf 48 717.9000000000001 Td (Final answer: Seven.) Tj ET
+BT /F2 9.5 Tf 48 703.1000000000001 Td (Question 2) Tj ET
+BT /F1 8.2 Tf 48 688.3000000000002 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 676.8000000000002 Td (Apply it to this question: kelvin \(K\).) Tj ET
+BT /F2 8.5 Tf 48 665.1000000000001 Td (Final answer: kelvin \(K\).) Tj ET
+BT /F2 9.5 Tf 48 650.3000000000002 Td (Question 3) Tj ET
+BT /F1 8.2 Tf 48 635.5000000000002 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 624.0000000000002 Td (Apply it to this question: Three.) Tj ET
+BT /F2 8.5 Tf 48 612.3000000000002 Td (Final answer: Three.) Tj ET
+BT /F2 9.5 Tf 48 597.5000000000002 Td (Question 4) Tj ET
+BT /F1 8.2 Tf 48 582.7000000000003 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 571.2000000000003 Td (Apply it to this question: [LT^-1].) Tj ET
+BT /F2 8.5 Tf 48 559.5000000000002 Td (Final answer: [LT^-1].) Tj ET
+BT /F2 9.5 Tf 48 544.7000000000003 Td (Question 5) Tj ET
+BT /F1 8.2 Tf 48 529.9000000000003 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 518.4000000000003 Td (Apply it to this question: [MLT^-2].) Tj ET
+BT /F2 8.5 Tf 48 506.70000000000033 Td (Final answer: [MLT^-2].) Tj ET
+BT /F2 9.5 Tf 48 491.9000000000003 Td (Question 6) Tj ET
+BT /F1 8.2 Tf 48 477.1000000000003 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 465.6000000000003 Td (Apply it to this question: Yes.) Tj ET
+BT /F2 8.5 Tf 48 453.9000000000003 Td (Final answer: Yes.) Tj ET
+BT /F2 9.5 Tf 48 439.1000000000003 Td (Question 7) Tj ET
+BT /F1 8.2 Tf 48 424.3000000000003 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 412.8000000000003 Td (Apply it to this question: No.) Tj ET
+BT /F2 8.5 Tf 48 401.1000000000003 Td (Final answer: No.) Tj ET
+BT /F2 9.5 Tf 48 386.3000000000003 Td (Question 8) Tj ET
+BT /F1 8.2 Tf 48 371.5000000000003 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 360.0000000000003 Td (Apply it to this question: pascal \(Pa\).) Tj ET
+BT /F2 8.5 Tf 48 348.3000000000003 Td (Final answer: pascal \(Pa\).) Tj ET
+BT /F2 9.5 Tf 48 333.5000000000003 Td (Question 9) Tj ET
+BT /F1 8.4 Tf 48 318.7000000000003 Td (Working: Keep the first three significant digits: 1, 2, 4. The next digit is 8, so round 12.4 upward to 12.5.) Tj ET
+BT /F2 8.5 Tf 48 306.0000000000003 Td (Final answer: 12.5.) Tj ET
+BT /F2 9.5 Tf 48 291.2000000000003 Td (Question 10) Tj ET
+BT /F1 8.4 Tf 48 276.40000000000026 Td (Working: Momentum p=mv. Therefore [p]=M x LT^-1 = MLT^-1.) Tj ET
+BT /F2 8.5 Tf 48 263.7000000000003 Td (Final answer: [MLT^-1].) Tj ET
+BT /F2 9.5 Tf 48 248.90000000000026 Td (Question 11) Tj ET
+BT /F1 8.4 Tf 48 234.10000000000025 Td (Working: [s]=L. Also [ut]=LT^-1 x T=L, and [at^2]=LT^-2 x T^2=L. Every term has dimension L, so the equation is) Tj ET
+BT /F1 8.4 Tf 48 222.40000000000026 Td (homogeneous.) Tj ET
+BT /F2 8.5 Tf 48 209.70000000000027 Td (Final answer: ut and at^2 both have dimension L; homogeneous.) Tj ET
+BT /F2 9.5 Tf 48 194.90000000000026 Td (Question 12) Tj ET
+BT /F1 8.4 Tf 48 180.10000000000025 Td (Working: 72 km/h x \(1000 m/1 km\) x \(1 h/3600 s\) = 72/3.6 = 20 m/s.) Tj ET
+BT /F2 8.5 Tf 48 167.40000000000026 Td (Final answer: 20 m s^-1.) Tj ET
+BT /F2 9.5 Tf 48 152.60000000000025 Td (Question 13) Tj ET
+BT /F1 8.4 Tf 48 137.80000000000024 Td (Working: In 5.070 x 10^3, the digits 5, 0, 7 and the final 0 are significant. Answer: 4 significant figures.) Tj ET
+BT /F2 8.5 Tf 48 125.10000000000024 Td (Final answer: Four.) Tj ET
+BT /F2 9.5 Tf 48 110.30000000000024 Td (Question 14) Tj ET
+BT /F1 8.4 Tf 48 95.50000000000024 Td (Working: Work = force x displacement; torque = force x perpendicular distance. Both have dimensions M L^2 T^-2, so) Tj ET
+BT /F1 8.4 Tf 48 83.80000000000024 Td (dimensional analysis alone cannot distinguish their physical meanings.) Tj ET
+BT /F2 8.5 Tf 48 71.10000000000024 Td (Final answer: Both are [ML^2T^-2].) Tj ET
+BT /F2 9.5 Tf 48 56.30000000000024 Td (Question 15) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 3 of 4) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 1905 >>
+stream
+BT /F1 8.4 Tf 48 795 Td (Working: Assume T proportional to l^a g^b. Then T dimension = L^a\(LT^-2\)^b = L^\(a+b\)T^\(-2b\). Equate powers: a+b=0) Tj ET
+BT /F1 8.4 Tf 48 783.3 Td (and -2b=1. Hence b=-1/2 and a=1/2, so T proportional to sqrt\(l/g\).) Tj ET
+BT /F2 8.5 Tf 48 770.5999999999999 Td (Final answer: Equating dimensions gives a=, b=-, so T proportional to sqrt\(l/g\).) Tj ET
+BT /F2 9.5 Tf 48 755.8 Td (Question 16) Tj ET
+BT /F1 8.4 Tf 48 741 Td (Working: V=\(4/3\)pi r^3=\(4/3\)pi\(2.00 cm\)^3=33.510... cm^3. To 3 significant figures, V=33.5 cm^3.) Tj ET
+BT /F2 8.5 Tf 48 728.3 Td (Final answer: 4pir^3/3=33.5 cm^3.) Tj ET
+BT /F2 9.5 Tf 48 713.5 Td (Question 17) Tj ET
+BT /F1 8.4 Tf 48 698.7 Td (Working: From F=Gm1m2/r^2, G=Fr^2/\(m1m2\). Dimensions: \(MLT^-2\)L^2/M^2=M^-1L^3T^-2.) Tj ET
+BT /F2 8.5 Tf 48 686 Td (Final answer: [M^-1L^3T^-2].) Tj ET
+BT /F2 9.5 Tf 48 671.2 Td (Question 18) Tj ET
+BT /F1 8.4 Tf 48 656.4000000000001 Td (Working: Area=15.2 x 3.4=51.68 cm^2. The least precise factor has 2 significant figures, so report 52 cm^2.) Tj ET
+BT /F2 8.5 Tf 48 643.7 Td (Final answer: 51.68 cm^2 rounds to 52 cm^2.) Tj ET
+BT /F2 9.5 Tf 48 628.9000000000001 Td (Question 19) Tj ET
+BT /F1 8.4 Tf 48 614.1000000000001 Td (Working: Assume T proportional to m^a k^b. Since [k]=MT^-2, [T]=M^\(a+b\)T^\(-2b\). Set a+b=0 and -2b=1: b=-1/2, a=1/2.) Tj ET
+BT /F1 8.4 Tf 48 602.4000000000001 Td (Thus T proportional to sqrt\(m/k\).) Tj ET
+BT /F2 8.5 Tf 48 589.7 Td (Final answer: a=, b=-; T proportional to sqrt\(m/k\).) Tj ET
+BT /F2 9.5 Tf 48 574.9000000000001 Td (Question 20) Tj ET
+BT /F1 8.4 Tf 48 560.1000000000001 Td (Working: Round 18.237 to 3 significant figures: retain 1, 8, 2; the next digit is 3, so the result is 18.2 cm^3.) Tj ET
+BT /F2 8.5 Tf 48 547.4000000000001 Td (Final answer: 18.2 cm^3; extra digits are unsupported.) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 4 of 4) Tj ET
 endstream
 endobj
 xref
-0 7
+0 13
 0000000000 65535 f 
-0000000030 00000 n 
-0000000079 00000 n 
-0000000136 00000 n 
-0000000206 00000 n 
-0000000281 00000 n 
-0000000417 00000 n 
+0000000044 00000 n 
+0000000093 00000 n 
+0000000169 00000 n 
+0000000239 00000 n 
+0000000314 00000 n 
+0000000450 00000 n 
+0000003258 00000 n 
+0000003394 00000 n 
+0000004908 00000 n 
+0000005045 00000 n 
+0000010011 00000 n 
+0000010149 00000 n 
 trailer
-<< /Size 7 /Root 1 0 R >>
+<< /Size 13 /Root 1 0 R >>
 startxref
-2953
+12106
 %%EOF

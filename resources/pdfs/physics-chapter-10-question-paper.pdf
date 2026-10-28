@@ -1,10 +1,10 @@
 %PDF-1.4
-%StudyNest ASCII PDF
+%StudyNest extended practice paper
 1 0 obj
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
@@ -16,53 +16,173 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
 endobj
 6 0 obj
-<< /Length 2521 >>
+<< /Length 2769 >>
 stream
 BT /F2 10 Tf 48 795 Td (STUDYNEST | CLASS 11 PHYSICS) Tj ET
-BT /F2 17 Tf 48 782 Td (QUESTION PAPER 1) Tj ET
-BT /F2 12 Tf 48 762 Td (Chapter 10: Thermal Properties of Matter) Tj ET
-BT /F2 9 Tf 48 747 Td (Maximum Marks: 40 | Suggested time: 60 minutes) Tj ET
-BT /F1 8.5 Tf 48 735 Td (Instructions: Answer all questions. Show calculations and units. Original practice material, not an official) Tj ET
-BT /F1 8.5 Tf 48 723.5 Td (examination.) Tj ET
-BT /F2 9.5 Tf 48 708 Td (Section A - 1-mark questions - 8 x 1 = 8 marks) Tj ET
-BT /F1 8.5 Tf 48 692.5 Td (1. What is temperature's role at equilibrium? [1]) Tj ET
-BT /F1 8.5 Tf 48 681 Td (2. Convert 27 deg C to kelvin. [1]) Tj ET
-BT /F1 8.5 Tf 48 669.5 Td (3. Specific heat capacity? [1]) Tj ET
-BT /F1 8.5 Tf 48 658 Td (4. Heat for temperature change without phase change? [1]) Tj ET
-BT /F1 8.5 Tf 48 646.5 Td (5. Latent heat relation? [1]) Tj ET
-BT /F1 8.5 Tf 48 635 Td (6. Heat transfer through vacuum? [1]) Tj ET
-BT /F1 8.5 Tf 48 623.5 Td (7. Ideal gas equation? [1]) Tj ET
-BT /F1 8.5 Tf 48 612 Td (8. Newton's law of cooling? [1]) Tj ET
-BT /F2 9.5 Tf 48 597.5 Td (Section B - 2-mark questions - 6 x 2 = 12 marks) Tj ET
-BT /F1 8.5 Tf 48 582 Td (9. 2 kg warmed 5 K, c=400: Q? [2]) Tj ET
-BT /F1 8.5 Tf 48 570.5 Td (10. =1.2x10^-5,L=2m,DeltaT=50K: extension? [2]) Tj ET
-BT /F1 8.5 Tf 48 559 Td (11. 100 deg C in kelvin? [2]) Tj ET
-BT /F1 8.5 Tf 48 547.5 Td (12. Heat capacity of .5 kg with c=800? [2]) Tj ET
-BT /F1 8.5 Tf 48 536 Td (13. Heat to melt .2 kg ice, L=3.34x10^5? [2]) Tj ET
-BT /F1 8.5 Tf 48 524.5 Td (14. Why is temperature constant during boiling? [2]) Tj ET
-BT /F2 9.5 Tf 48 510 Td (Section C - 3-mark questions - 4 x 3 = 12 marks) Tj ET
-BT /F1 8.5 Tf 48 494.5 Td (15. .5 kg water c=4200 heated 10 deg C: heat? [3]) Tj ET
-BT /F1 8.5 Tf 48 483 Td (16. Rod L=2m,=1.5x10^-5,DeltaT=40K: expansion? [3]) Tj ET
-BT /F1 8.5 Tf 48 471.5 Td (17. Mix .2 kg at 80 deg C and .3 kg at 20 deg C, equal c, no heat loss: final T? [3]) Tj ET
-BT /F1 8.5 Tf 48 460 Td (18. Gas at fixed volume warms 300K to 450K; initial p=100kPa. Final p? [3]) Tj ET
-BT /F2 9.5 Tf 48 445.5 Td (Section D - 4-mark questions - 2 x 4 = 8 marks) Tj ET
-BT /F1 8.5 Tf 48 430 Td (19. Describe three heat-transfer modes. [4]) Tj ET
-BT /F1 8.5 Tf 48 418.5 Td (20. Melt .2 kg ice at 0 deg C then warm water by 20K; L=3.34x10^5,c=4200. Total Q? [4]) Tj ET
-BT /F1 8.5 Tf 48 404 Td (End of paper - check working, units, signs and significant figures.) Tj ET
-BT /F1 8 Tf 430 24 Td (StudyNest | Page 1 of 1) Tj ET
+BT /F2 17 Tf 48 781.7 Td (QUESTION PAPER 1) Tj ET
+BT /F2 12 Tf 48 761.4000000000001 Td (Chapter 10: Thermal Properties of Matter) Tj ET
+BT /F2 9 Tf 48 746.1000000000001 Td (Maximum Marks: 40 | Suggested time: 60 minutes) Tj ET
+BT /F1 8.5 Tf 48 733.8000000000002 Td (Instructions: Answer all questions. Show calculation steps and units. Original practice paper, not an official) Tj ET
+BT /F1 8.5 Tf 48 722.0000000000002 Td (examination.) Tj ET
+BT /F2 9.5 Tf 48 706.2000000000003 Td (Section A 1-mark questions - 8 x 1 = 8 marks) Tj ET
+BT /F1 8.4 Tf 48 690.4000000000003 Td (1. What is temperature's role at equilibrium? [1]) Tj ET
+BT /F1 8.4 Tf 48 678.7000000000003 Td (2. Convert 27C to kelvin. [1]) Tj ET
+BT /F1 8.4 Tf 48 667.0000000000002 Td (3. Specific heat capacity? [1]) Tj ET
+BT /F1 8.4 Tf 48 655.3000000000002 Td (4. Heat for temperature change without phase change? [1]) Tj ET
+BT /F1 8.4 Tf 48 643.6000000000001 Td (5. Latent heat relation? [1]) Tj ET
+BT /F1 8.4 Tf 48 631.9000000000001 Td (6. Heat transfer through vacuum? [1]) Tj ET
+BT /F1 8.4 Tf 48 620.2 Td (7. Ideal gas equation? [1]) Tj ET
+BT /F1 8.4 Tf 48 608.5 Td (8. Newton's law of cooling? [1]) Tj ET
+BT /F2 9.5 Tf 48 594.8 Td (Section B 2-mark questions - 6 x 2 = 12 marks) Tj ET
+BT /F1 8.4 Tf 48 579 Td (9. 2 kg warmed 5 K, c=400: Q? [2]) Tj ET
+BT /F1 8.4 Tf 48 567.3 Td (10. =1.2 x 10^-5,L=2m,DeltaT=50K: extension? [2]) Tj ET
+BT /F1 8.4 Tf 48 555.5999999999999 Td (11. 100C in kelvin? [2]) Tj ET
+BT /F1 8.4 Tf 48 543.8999999999999 Td (12. Heat capacity of .5 kg with c=800? [2]) Tj ET
+BT /F1 8.4 Tf 48 532.1999999999998 Td (13. Heat to melt .2 kg ice, L=3.34 x 10^5? [2]) Tj ET
+BT /F1 8.4 Tf 48 520.4999999999998 Td (14. Why is temperature constant during boiling? [2]) Tj ET
+BT /F2 9.5 Tf 48 506.7999999999998 Td (Section C 3-mark questions - 4 x 3 = 12 marks) Tj ET
+BT /F1 8.4 Tf 48 490.9999999999998 Td (15. .5 kg water c=4200 heated 10C: heat? [3]) Tj ET
+BT /F1 8.4 Tf 48 479.2999999999998 Td (16. Rod L=2m,=1.5 x 10^-5,DeltaT=40K: expansion? [3]) Tj ET
+BT /F1 8.4 Tf 48 467.5999999999998 Td (17. Mix .2 kg at 80C and .3 kg at 20C, equal c, no heat loss: final T? [3]) Tj ET
+BT /F1 8.4 Tf 48 455.8999999999998 Td (18. Gas at fixed volume warms 300K to 450K; initial p=100kPa. Final p? [3]) Tj ET
+BT /F2 9.5 Tf 48 442.1999999999998 Td (Section D 4-mark questions - 2 x 4 = 8 marks) Tj ET
+BT /F1 8.4 Tf 48 426.3999999999998 Td (19. Describe three heat-transfer modes. [4]) Tj ET
+BT /F1 8.4 Tf 48 414.6999999999998 Td (20. Melt .2 kg ice at 0C then warm water by 20K; L=3.34 x 10^5,c=4200. Total Q? [4]) Tj ET
+BT /F2 8.5 Tf 48 400.99999999999983 Td (End of question paper.) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 1 of 4) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1494 >>
+stream
+BT /F2 15 Tf 48 795 Td (FORMULA AND EQUATION REFERENCE) Tj ET
+BT /F2 9.5 Tf 48 771.7 Td (Chapter-specific equations and relations) Tj ET
+BT /F1 8.6 Tf 48 758.9000000000001 Td (- Temperature conversion: T\(K\)=theta\(deg C\)+273.15.) Tj ET
+BT /F1 8.6 Tf 48 747.0000000000001 Td (- Heat for temperature change: Q=mc Delta T; heat capacity C=mc.) Tj ET
+BT /F1 8.6 Tf 48 735.1000000000001 Td (- Latent heat during phase change: Q=mL.) Tj ET
+BT /F1 8.6 Tf 48 723.2000000000002 Td (- Linear expansion: Delta L=alpha L Delta T; area expansion approx 2alpha A Delta T; volume expansion approx) Tj ET
+BT /F1 8.6 Tf 48 711.3000000000002 Td (3alpha V Delta T for isotropic solids.) Tj ET
+BT /F1 8.6 Tf 48 699.4000000000002 Td (- Calorimetry without heat loss: heat lost = heat gained; for equal specific heat, T_f=\(m_1T_1+m_2T_2\)/\(m_1+m_2\).) Tj ET
+BT /F1 8.6 Tf 48 687.5000000000002 Td (- Ideal gas equation pV=nRT; at fixed volume p/T=constant.) Tj ET
+BT /F1 8.6 Tf 48 675.6000000000003 Td (- Newton cooling \(small temperature difference\): rate of heat loss proportional to temperature excess.) Tj ET
+BT /F1 8.6 Tf 48 663.7000000000003 Td (- Heat-transfer modes: conduction \(microscopic interactions\), convection \(bulk fluid motion\), radiation) Tj ET
+BT /F1 8.6 Tf 48 651.8000000000003 Td (\(electromagnetic waves\).) Tj ET
+BT /F1 8 Tf 48 639.9000000000003 Td (Use equations only when their assumptions apply; keep units consistent.) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 2 of 4) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 5092 >>
+stream
+BT /F2 15 Tf 48 795 Td (STEP-BY-STEP SOLUTIONS) Tj ET
+BT /F1 8.5 Tf 48 771.7 Td (Concept questions are answered directly; numerical problems show the governing equation and substitution.) Tj ET
+BT /F2 9.5 Tf 48 755.9000000000001 Td (Question 1) Tj ET
+BT /F1 8.2 Tf 48 741.1000000000001 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 729.6000000000001 Td (Apply it here: No net heat transfer between systems in thermal equilibrium.) Tj ET
+BT /F2 8.5 Tf 48 717.9000000000001 Td (Final answer: No net heat transfer between systems in thermal equilibrium.) Tj ET
+BT /F2 9.5 Tf 48 703.1000000000001 Td (Question 2) Tj ET
+BT /F1 8.2 Tf 48 688.3000000000002 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 676.8000000000002 Td (Apply it here: 300.15 K, approximately 300 K.) Tj ET
+BT /F2 8.5 Tf 48 665.1000000000001 Td (Final answer: 300.15 K, approximately 300 K.) Tj ET
+BT /F2 9.5 Tf 48 650.3000000000002 Td (Question 3) Tj ET
+BT /F1 8.2 Tf 48 635.5000000000002 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 624.0000000000002 Td (Apply it here: Heat needed to raise 1 kg by 1 K.) Tj ET
+BT /F2 8.5 Tf 48 612.3000000000002 Td (Final answer: Heat needed to raise 1 kg by 1 K.) Tj ET
+BT /F2 9.5 Tf 48 597.5000000000002 Td (Question 4) Tj ET
+BT /F1 8.2 Tf 48 582.7000000000003 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 571.2000000000003 Td (Apply it here: Q=mcDeltaT.) Tj ET
+BT /F2 8.5 Tf 48 559.5000000000002 Td (Final answer: Q=mcDeltaT.) Tj ET
+BT /F2 9.5 Tf 48 544.7000000000003 Td (Question 5) Tj ET
+BT /F1 8.2 Tf 48 529.9000000000003 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 518.4000000000003 Td (Apply it here: Q=mL.) Tj ET
+BT /F2 8.5 Tf 48 506.70000000000033 Td (Final answer: Q=mL.) Tj ET
+BT /F2 9.5 Tf 48 491.9000000000003 Td (Question 6) Tj ET
+BT /F1 8.2 Tf 48 477.1000000000003 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 465.6000000000003 Td (Apply it here: Radiation.) Tj ET
+BT /F2 8.5 Tf 48 453.9000000000003 Td (Final answer: Radiation.) Tj ET
+BT /F2 9.5 Tf 48 439.1000000000003 Td (Question 7) Tj ET
+BT /F1 8.2 Tf 48 424.3000000000003 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 412.8000000000003 Td (Apply it here: pV=nRT.) Tj ET
+BT /F2 8.5 Tf 48 401.1000000000003 Td (Final answer: pV=nRT.) Tj ET
+BT /F2 9.5 Tf 48 386.3000000000003 Td (Question 8) Tj ET
+BT /F1 8.2 Tf 48 371.5000000000003 Td (Principle / definition: Identify the physical quantity or law asked for, then apply the chapter definition.) Tj ET
+BT /F1 8.4 Tf 48 360.0000000000003 Td (Apply it here: Rate is approximately proportional to excess temperature for small differences.) Tj ET
+BT /F2 8.5 Tf 48 348.3000000000003 Td (Final answer: Rate is approximately proportional to excess temperature for small differences.) Tj ET
+BT /F2 9.5 Tf 48 333.5000000000003 Td (Question 9) Tj ET
+BT /F1 8.4 Tf 48 318.7000000000003 Td (Working: Q=mc Delta T=2\(400\)\(5\)=4000 J.) Tj ET
+BT /F2 8.5 Tf 48 306.0000000000003 Td (Final answer: 4000 J.) Tj ET
+BT /F2 9.5 Tf 48 291.2000000000003 Td (Question 10) Tj ET
+BT /F1 8.4 Tf 48 276.40000000000026 Td (Working: Delta L=alpha L Delta T=\(1.2x10^-5\)\(2\)\(50\)=1.2x10^-3 m.) Tj ET
+BT /F2 8.5 Tf 48 263.7000000000003 Td (Final answer: 1.2 x 10^-3 m.) Tj ET
+BT /F2 9.5 Tf 48 248.90000000000026 Td (Question 11) Tj ET
+BT /F1 8.4 Tf 48 234.10000000000025 Td (Working: T=theta+273.15=100+273.15=373.15 K.) Tj ET
+BT /F2 8.5 Tf 48 221.40000000000026 Td (Final answer: 373.15 K.) Tj ET
+BT /F2 9.5 Tf 48 206.60000000000025 Td (Question 12) Tj ET
+BT /F1 8.4 Tf 48 191.80000000000024 Td (Working: Heat capacity C=mc=\(0.5 kg\)\(800 J kg^-1 K^-1\)=400 J/K.) Tj ET
+BT /F2 8.5 Tf 48 179.10000000000025 Td (Final answer: 400 J/K.) Tj ET
+BT /F2 9.5 Tf 48 164.30000000000024 Td (Question 13) Tj ET
+BT /F1 8.4 Tf 48 149.50000000000023 Td (Working: For melting at constant temperature, Q=mL=0.2\(3.34x10^5\)=66,800 J.) Tj ET
+BT /F2 8.5 Tf 48 136.80000000000024 Td (Final answer: 66,800 J.) Tj ET
+BT /F2 9.5 Tf 48 122.00000000000024 Td (Question 14) Tj ET
+BT /F1 8.4 Tf 48 107.20000000000024 Td (Working: During boiling, supplied energy is used as latent heat to change liquid into vapour by overcoming) Tj ET
+BT /F1 8.4 Tf 48 95.50000000000024 Td (intermolecular attractions. Temperature stays constant until the phase change is complete.) Tj ET
+BT /F2 8.5 Tf 48 82.80000000000024 Td (Final answer: Energy supplies latent heat for phase change.) Tj ET
+BT /F2 9.5 Tf 48 68.00000000000024 Td (Question 15) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 3 of 4) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 1896 >>
+stream
+BT /F1 8.4 Tf 48 795 Td (Working: Q=mc Delta T=0.5\(4200\)\(10\)=21,000 J.) Tj ET
+BT /F2 8.5 Tf 48 782.3 Td (Final answer: 21,000 J.) Tj ET
+BT /F2 9.5 Tf 48 767.5 Td (Question 16) Tj ET
+BT /F1 8.4 Tf 48 752.7 Td (Working: Delta L=alpha L Delta T=\(1.5x10^-5\)\(2\)\(40\)=1.2x10^-3 m.) Tj ET
+BT /F2 8.5 Tf 48 740 Td (Final answer: 1.2 x 10^-3 m.) Tj ET
+BT /F2 9.5 Tf 48 725.2 Td (Question 17) Tj ET
+BT /F1 8.4 Tf 48 710.4000000000001 Td (Working: Heat lost=heat gained: 0.2c\(80-T\)=0.3c\(T-20\). Cancel c: 16-0.2T=0.3T-6; 22=0.5T; T=44 deg C.) Tj ET
+BT /F2 8.5 Tf 48 697.7 Td (Final answer: 44C.) Tj ET
+BT /F2 9.5 Tf 48 682.9000000000001 Td (Question 18) Tj ET
+BT /F1 8.4 Tf 48 668.1000000000001 Td (Working: At fixed volume, p/T is constant. T_2/T_1=450/300=1.5, so p_2=100 kPa\(1.5\)=150 kPa.) Tj ET
+BT /F2 8.5 Tf 48 655.4000000000001 Td (Final answer: 150 kPa.) Tj ET
+BT /F2 9.5 Tf 48 640.6000000000001 Td (Question 19) Tj ET
+BT /F1 8.4 Tf 48 625.8000000000002 Td (Working: Conduction transfers energy through microscopic interactions without bulk movement; convection transfers) Tj ET
+BT /F1 8.4 Tf 48 614.1000000000001 Td (energy by bulk flow in fluids; radiation transfers energy by electromagnetic waves and can occur through vacuum.) Tj ET
+BT /F2 8.5 Tf 48 601.4000000000001 Td (Final answer: Conduction via microscopic interactions; convection by bulk flow; radiation via electromagnetic) Tj ET
+BT /F2 8.5 Tf 48 589.6000000000001 Td (waves.) Tj ET
+BT /F2 9.5 Tf 48 574.8000000000002 Td (Question 20) Tj ET
+BT /F1 8.4 Tf 48 560.0000000000002 Td (Working: First melt the ice: Q_1=mL=0.2\(3.34x10^5\)=66,800 J. Then warm the water: Q_2=mc Delta) Tj ET
+BT /F1 8.4 Tf 48 548.3000000000002 Td (T=0.2\(4200\)\(20\)=16,800 J. Total Q=Q_1+Q_2=83,600 J.) Tj ET
+BT /F2 8.5 Tf 48 535.6000000000001 Td (Final answer: mL+mcDeltaT=83,600 J.) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 4 of 4) Tj ET
 endstream
 endobj
 xref
-0 7
+0 13
 0000000000 65535 f 
-0000000030 00000 n 
-0000000079 00000 n 
-0000000136 00000 n 
-0000000206 00000 n 
-0000000281 00000 n 
-0000000417 00000 n 
+0000000044 00000 n 
+0000000093 00000 n 
+0000000169 00000 n 
+0000000239 00000 n 
+0000000314 00000 n 
+0000000450 00000 n 
+0000003270 00000 n 
+0000003406 00000 n 
+0000004951 00000 n 
+0000005088 00000 n 
+0000010232 00000 n 
+0000010370 00000 n 
 trailer
-<< /Size 7 /Root 1 0 R >>
+<< /Size 13 /Root 1 0 R >>
 startxref
-2989
+12318
 %%EOF

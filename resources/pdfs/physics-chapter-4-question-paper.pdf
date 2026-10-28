@@ -1,10 +1,10 @@
 %PDF-1.4
-%StudyNest ASCII PDF
+%StudyNest extended practice paper
 1 0 obj
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
@@ -16,53 +16,169 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
 endobj
 6 0 obj
-<< /Length 2503 >>
+<< /Length 2765 >>
 stream
 BT /F2 10 Tf 48 795 Td (STUDYNEST | CLASS 11 PHYSICS) Tj ET
-BT /F2 17 Tf 48 782 Td (QUESTION PAPER 1) Tj ET
-BT /F2 12 Tf 48 762 Td (Chapter 4: Laws of Motion) Tj ET
-BT /F2 9 Tf 48 747 Td (Maximum Marks: 40 | Suggested time: 60 minutes) Tj ET
-BT /F1 8.5 Tf 48 735 Td (Instructions: Answer all questions. Show calculations and units. Original practice material, not an official) Tj ET
-BT /F1 8.5 Tf 48 723.5 Td (examination.) Tj ET
-BT /F2 9.5 Tf 48 708 Td (Section A - 1-mark questions - 8 x 1 = 8 marks) Tj ET
-BT /F1 8.5 Tf 48 692.5 Td (1. What measures translational inertia? [1]) Tj ET
-BT /F1 8.5 Tf 48 681 Td (2. Second law at constant mass? [1]) Tj ET
-BT /F1 8.5 Tf 48 669.5 Td (3. Do action-reaction forces act on one body? [1]) Tj ET
-BT /F1 8.5 Tf 48 658 Td (4. Momentum formula? [1]) Tj ET
-BT /F1 8.5 Tf 48 646.5 Td (5. Net force at equilibrium? [1]) Tj ET
-BT /F1 8.5 Tf 48 635 Td (6. Kinetic-friction direction? [1]) Tj ET
-BT /F1 8.5 Tf 48 623.5 Td (7. What provides centripetal force? [1]) Tj ET
-BT /F1 8.5 Tf 48 612 Td (8. Maximum static friction? [1]) Tj ET
-BT /F2 9.5 Tf 48 597.5 Td (Section B - 2-mark questions - 6 x 2 = 12 marks) Tj ET
-BT /F1 8.5 Tf 48 582 Td (9. 5 kg under net force 20 N: a? [2]) Tj ET
-BT /F1 8.5 Tf 48 570.5 Td (10. 0.2 kg changes velocity +10 to -5 m/s: Deltap? [2]) Tj ET
-BT /F1 8.5 Tf 48 559 Td (11. 10 kg resting on level floor, g=9.8: N? [2]) Tj ET
-BT /F1 8.5 Tf 48 547.5 Td (12. 2 kg at 6 m/s in radius 3 m: force? [2]) Tj ET
-BT /F1 8.5 Tf 48 536 Td (13. 50 N for .2 s: impulse? [2]) Tj ET
-BT /F1 8.5 Tf 48 524.5 Td (14. Why does swimmer push water backwards? [2]) Tj ET
-BT /F2 9.5 Tf 48 510 Td (Section C - 3-mark questions - 4 x 3 = 12 marks) Tj ET
-BT /F1 8.5 Tf 48 494.5 Td (15. 6 kg trolley pulled 30 N, friction 6 N: a? [3]) Tj ET
-BT /F1 8.5 Tf 48 483 Td (16. 0.15 kg ball at 20 m/s stops in .05 s: average force? [3]) Tj ET
-BT /F1 8.5 Tf 48 471.5 Td (17. 10 kg block on frictionless 30 deg incline, g=10: a,N? [3]) Tj ET
-BT /F1 8.5 Tf 48 460 Td (18. 2 kg at 5 m/s in radius 2.5 m: radial force? [3]) Tj ET
-BT /F2 9.5 Tf 48 445.5 Td (Section D - 4-mark questions - 2 x 4 = 8 marks) Tj ET
-BT /F1 8.5 Tf 48 430 Td (19. 4 kg block released on frictionless 30 deg incline: speed after 3 s, g=10? [4]) Tj ET
-BT /F1 8.5 Tf 48 418.5 Td (20. 0.5 kg ball rebounds +12 to -8 m/s in .1 s: average force? [4]) Tj ET
-BT /F1 8.5 Tf 48 404 Td (End of paper - check working, units, signs and significant figures.) Tj ET
-BT /F1 8 Tf 430 24 Td (StudyNest | Page 1 of 1) Tj ET
+BT /F2 17 Tf 48 781.7 Td (QUESTION PAPER 1) Tj ET
+BT /F2 12 Tf 48 761.4000000000001 Td (Chapter 4: Laws of Motion) Tj ET
+BT /F2 9 Tf 48 746.1000000000001 Td (Maximum Marks: 40 | Suggested time: 60 minutes) Tj ET
+BT /F1 8.5 Tf 48 733.8000000000002 Td (Instructions: Answer all questions. Show calculation steps and units. Original practice paper, not an official) Tj ET
+BT /F1 8.5 Tf 48 722.0000000000002 Td (examination.) Tj ET
+BT /F2 9.5 Tf 48 706.2000000000003 Td (Section A 1-mark questions - 8 x 1 = 8 marks) Tj ET
+BT /F1 8.4 Tf 48 690.4000000000003 Td (1. What measures translational inertia? [1]) Tj ET
+BT /F1 8.4 Tf 48 678.7000000000003 Td (2. Second law at constant mass? [1]) Tj ET
+BT /F1 8.4 Tf 48 667.0000000000002 Td (3. Do action-reaction forces act on one body? [1]) Tj ET
+BT /F1 8.4 Tf 48 655.3000000000002 Td (4. Momentum formula? [1]) Tj ET
+BT /F1 8.4 Tf 48 643.6000000000001 Td (5. Net force at equilibrium? [1]) Tj ET
+BT /F1 8.4 Tf 48 631.9000000000001 Td (6. Kinetic-friction direction? [1]) Tj ET
+BT /F1 8.4 Tf 48 620.2 Td (7. What provides centripetal force? [1]) Tj ET
+BT /F1 8.4 Tf 48 608.5 Td (8. Maximum static friction? [1]) Tj ET
+BT /F2 9.5 Tf 48 594.8 Td (Section B 2-mark questions - 6 x 2 = 12 marks) Tj ET
+BT /F1 8.4 Tf 48 579 Td (9. 5 kg under net force 20 N: a? [2]) Tj ET
+BT /F1 8.4 Tf 48 567.3 Td (10. 0.2 kg changes velocity +10 to -5 m/s: Deltap? [2]) Tj ET
+BT /F1 8.4 Tf 48 555.5999999999999 Td (11. 10 kg resting on level floor, g=9.8: N? [2]) Tj ET
+BT /F1 8.4 Tf 48 543.8999999999999 Td (12. 2 kg at 6 m/s in radius 3 m: force? [2]) Tj ET
+BT /F1 8.4 Tf 48 532.1999999999998 Td (13. 50 N for .2 s: impulse? [2]) Tj ET
+BT /F1 8.4 Tf 48 520.4999999999998 Td (14. Why does swimmer push water backwards? [2]) Tj ET
+BT /F2 9.5 Tf 48 506.7999999999998 Td (Section C 3-mark questions - 4 x 3 = 12 marks) Tj ET
+BT /F1 8.4 Tf 48 490.9999999999998 Td (15. 6 kg trolley pulled 30 N, friction 6 N: a? [3]) Tj ET
+BT /F1 8.4 Tf 48 479.2999999999998 Td (16. 0.15 kg ball at 20 m/s stops in .05 s: average force? [3]) Tj ET
+BT /F1 8.4 Tf 48 467.5999999999998 Td (17. 10 kg block on frictionless 30 incline, g=10: a,N? [3]) Tj ET
+BT /F1 8.4 Tf 48 455.8999999999998 Td (18. 2 kg at 5 m/s in radius 2.5 m: radial force? [3]) Tj ET
+BT /F2 9.5 Tf 48 442.1999999999998 Td (Section D 4-mark questions - 2 x 4 = 8 marks) Tj ET
+BT /F1 8.4 Tf 48 426.3999999999998 Td (19. 4 kg block released on frictionless 30 incline: speed after 3 s, g=10? [4]) Tj ET
+BT /F1 8.4 Tf 48 414.6999999999998 Td (20. 0.5 kg ball rebounds +12 to -8 m/s in .1 s: average force? [4]) Tj ET
+BT /F2 8.5 Tf 48 400.99999999999983 Td (End of question paper.) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 1 of 4) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1099 >>
+stream
+BT /F2 15 Tf 48 795 Td (FORMULA AND EQUATION REFERENCE) Tj ET
+BT /F2 9.5 Tf 48 771.7 Td (Chapter-specific equations worth knowing) Tj ET
+BT /F1 8.6 Tf 48 758.9000000000001 Td (- Newton's second law: F_net=ma; momentum p=mv.) Tj ET
+BT /F1 8.6 Tf 48 747.0000000000001 Td (- Impulse: J=F_avg Delta t = Delta p = m\(v-u\).) Tj ET
+BT /F1 8.6 Tf 48 735.1000000000001 Td (- Weight W=mg; on a level surface with no other vertical acceleration, N=mg.) Tj ET
+BT /F1 8.6 Tf 48 723.2000000000002 Td (- Kinetic friction magnitude f_k=mu_k N; maximum static friction f_s,max=mu_s N.) Tj ET
+BT /F1 8.6 Tf 48 711.3000000000002 Td (- On a frictionless incline: a=g sin\(theta\); normal force N=mg cos\(theta\).) Tj ET
+BT /F1 8.6 Tf 48 699.4000000000002 Td (- Centripetal force requirement: F_c=mv^2/r; the inward net force provides it.) Tj ET
+BT /F1 8.6 Tf 48 687.5000000000002 Td (- For constant acceleration: v=u+at; s=ut+\(1/2\)at^2.) Tj ET
+BT /F1 8 Tf 48 675.6000000000003 Td (Use each equation only when its assumptions apply; keep units consistent.) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 2 of 4) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 4670 >>
+stream
+BT /F2 15 Tf 48 795 Td (STEP-BY-STEP SOLUTIONS) Tj ET
+BT /F1 8.5 Tf 48 771.7 Td (Solutions are grouped here after the question paper and formula reference.) Tj ET
+BT /F2 9.5 Tf 48 755.9000000000001 Td (Question 1) Tj ET
+BT /F1 8.2 Tf 48 741.1000000000001 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 729.6000000000001 Td (Apply it to this question: Mass.) Tj ET
+BT /F2 8.5 Tf 48 717.9000000000001 Td (Final answer: Mass.) Tj ET
+BT /F2 9.5 Tf 48 703.1000000000001 Td (Question 2) Tj ET
+BT /F1 8.2 Tf 48 688.3000000000002 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 676.8000000000002 Td (Apply it to this question: F=ma.) Tj ET
+BT /F2 8.5 Tf 48 665.1000000000001 Td (Final answer: F=ma.) Tj ET
+BT /F2 9.5 Tf 48 650.3000000000002 Td (Question 3) Tj ET
+BT /F1 8.2 Tf 48 635.5000000000002 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 624.0000000000002 Td (Apply it to this question: No.) Tj ET
+BT /F2 8.5 Tf 48 612.3000000000002 Td (Final answer: No.) Tj ET
+BT /F2 9.5 Tf 48 597.5000000000002 Td (Question 4) Tj ET
+BT /F1 8.2 Tf 48 582.7000000000003 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 571.2000000000003 Td (Apply it to this question: p=mv.) Tj ET
+BT /F2 8.5 Tf 48 559.5000000000002 Td (Final answer: p=mv.) Tj ET
+BT /F2 9.5 Tf 48 544.7000000000003 Td (Question 5) Tj ET
+BT /F1 8.2 Tf 48 529.9000000000003 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 518.4000000000003 Td (Apply it to this question: Zero.) Tj ET
+BT /F2 8.5 Tf 48 506.70000000000033 Td (Final answer: Zero.) Tj ET
+BT /F2 9.5 Tf 48 491.9000000000003 Td (Question 6) Tj ET
+BT /F1 8.2 Tf 48 477.1000000000003 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 465.6000000000003 Td (Apply it to this question: Opposes relative sliding.) Tj ET
+BT /F2 8.5 Tf 48 453.9000000000003 Td (Final answer: Opposes relative sliding.) Tj ET
+BT /F2 9.5 Tf 48 439.1000000000003 Td (Question 7) Tj ET
+BT /F1 8.2 Tf 48 424.3000000000003 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 412.8000000000003 Td (Apply it to this question: Inward resultant of actual forces.) Tj ET
+BT /F2 8.5 Tf 48 401.1000000000003 Td (Final answer: Inward resultant of actual forces.) Tj ET
+BT /F2 9.5 Tf 48 386.3000000000003 Td (Question 8) Tj ET
+BT /F1 8.2 Tf 48 371.5000000000003 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 360.0000000000003 Td (Apply it to this question: mu_sN.) Tj ET
+BT /F2 8.5 Tf 48 348.3000000000003 Td (Final answer: mu_sN.) Tj ET
+BT /F2 9.5 Tf 48 333.5000000000003 Td (Question 9) Tj ET
+BT /F1 8.4 Tf 48 318.7000000000003 Td (Working: Newton's second law: a=F_net/m=20/5=4 m/s^2.) Tj ET
+BT /F2 8.5 Tf 48 306.0000000000003 Td (Final answer: 4 m/s^2.) Tj ET
+BT /F2 9.5 Tf 48 291.2000000000003 Td (Question 10) Tj ET
+BT /F1 8.4 Tf 48 276.40000000000026 Td (Working: Change in momentum Delta p=m\(v-u\)=0.2\(-5-10\)=0.2\(-15\)=-3 kg m/s.) Tj ET
+BT /F2 8.5 Tf 48 263.7000000000003 Td (Final answer: -3 kg m/s.) Tj ET
+BT /F2 9.5 Tf 48 248.90000000000026 Td (Question 11) Tj ET
+BT /F1 8.4 Tf 48 234.10000000000025 Td (Working: At rest on a level floor, vertical forces balance: N=mg=10\(9.8\)=98 N.) Tj ET
+BT /F2 8.5 Tf 48 221.40000000000026 Td (Final answer: 98 N.) Tj ET
+BT /F2 9.5 Tf 48 206.60000000000025 Td (Question 12) Tj ET
+BT /F1 8.4 Tf 48 191.80000000000024 Td (Working: F_c=mv^2/r=2\(6^2\)/3=72/3=24 N.) Tj ET
+BT /F2 8.5 Tf 48 179.10000000000025 Td (Final answer: 24 N.) Tj ET
+BT /F2 9.5 Tf 48 164.30000000000024 Td (Question 13) Tj ET
+BT /F1 8.4 Tf 48 149.50000000000023 Td (Working: Impulse J=F Delta t=50\(0.2\)=10 N s.) Tj ET
+BT /F2 8.5 Tf 48 136.80000000000024 Td (Final answer: 10 N s.) Tj ET
+BT /F2 9.5 Tf 48 122.00000000000024 Td (Question 14) Tj ET
+BT /F1 8.4 Tf 48 107.20000000000024 Td (Working: The swimmer pushes water backward. By Newton's third law, the water exerts an equal and opposite forward) Tj ET
+BT /F1 8.4 Tf 48 95.50000000000024 Td (force on the swimmer.) Tj ET
+BT /F2 8.5 Tf 48 82.80000000000024 Td (Final answer: Water exerts a forward reaction.) Tj ET
+BT /F2 9.5 Tf 48 68.00000000000024 Td (Question 15) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 3 of 4) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 1663 >>
+stream
+BT /F1 8.4 Tf 48 795 Td (Working: Net horizontal force=30-6=24 N. Acceleration a=F_net/m=24/6=4 m/s^2.) Tj ET
+BT /F2 8.5 Tf 48 782.3 Td (Final answer: 4 m/s^2.) Tj ET
+BT /F2 9.5 Tf 48 767.5 Td (Question 16) Tj ET
+BT /F1 8.4 Tf 48 752.7 Td (Working: a=\(v-u\)/t=\(0-20\)/0.05=-400 m/s^2. Average force F=ma=0.15\(-400\)=-60 N; the minus sign means opposite to the) Tj ET
+BT /F1 8.4 Tf 48 741 Td (initial motion.) Tj ET
+BT /F2 8.5 Tf 48 728.3 Td (Final answer: -60 N.) Tj ET
+BT /F2 9.5 Tf 48 713.5 Td (Question 17) Tj ET
+BT /F1 8.4 Tf 48 698.7 Td (Working: Along the incline: a=g sin30=10\(0.5\)=5 m/s^2. Normal force N=mg cos30=100\(0.866\)=86.6 N.) Tj ET
+BT /F2 8.5 Tf 48 686 Td (Final answer: 5 m/s^2; 86.6 N.) Tj ET
+BT /F2 9.5 Tf 48 671.2 Td (Question 18) Tj ET
+BT /F1 8.4 Tf 48 656.4000000000001 Td (Working: Radial force F=mv^2/r=2\(5^2\)/2.5=50/2.5=20 N inward.) Tj ET
+BT /F2 8.5 Tf 48 643.7 Td (Final answer: 20 N inward.) Tj ET
+BT /F2 9.5 Tf 48 628.9000000000001 Td (Question 19) Tj ET
+BT /F1 8.4 Tf 48 614.1000000000001 Td (Working: Acceleration down the smooth incline is a=g sin30=5 m/s^2. Released from rest, v=u+at=0+5\(3\)=15 m/s.) Tj ET
+BT /F2 8.5 Tf 48 601.4000000000001 Td (Final answer: a=5 m/s^2; v=15 m/s.) Tj ET
+BT /F2 9.5 Tf 48 586.6000000000001 Td (Question 20) Tj ET
+BT /F1 8.4 Tf 48 571.8000000000002 Td (Working: Delta p=m\(v-u\)=0.5\(-8-12\)=0.5\(-20\)=-10 N s. Average force=Delta p/Delta t=-10/0.1=-100 N, opposite the) Tj ET
+BT /F1 8.4 Tf 48 560.1000000000001 Td (initial direction.) Tj ET
+BT /F2 8.5 Tf 48 547.4000000000001 Td (Final answer: Deltap=-10 N s; force=-100 N.) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 4 of 4) Tj ET
 endstream
 endobj
 xref
-0 7
+0 13
 0000000000 65535 f 
-0000000030 00000 n 
-0000000079 00000 n 
-0000000136 00000 n 
-0000000206 00000 n 
-0000000281 00000 n 
-0000000417 00000 n 
+0000000044 00000 n 
+0000000093 00000 n 
+0000000169 00000 n 
+0000000239 00000 n 
+0000000314 00000 n 
+0000000450 00000 n 
+0000003266 00000 n 
+0000003402 00000 n 
+0000004552 00000 n 
+0000004689 00000 n 
+0000009411 00000 n 
+0000009549 00000 n 
 trailer
-<< /Size 7 /Root 1 0 R >>
+<< /Size 13 /Root 1 0 R >>
 startxref
-2971
+11264
 %%EOF

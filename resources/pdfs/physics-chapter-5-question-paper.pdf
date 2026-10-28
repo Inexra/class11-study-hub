@@ -1,10 +1,10 @@
 %PDF-1.4
-%StudyNest ASCII PDF
+%StudyNest extended practice paper
 1 0 obj
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
@@ -16,53 +16,170 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
 endobj
 6 0 obj
-<< /Length 2491 >>
+<< /Length 2761 >>
 stream
 BT /F2 10 Tf 48 795 Td (STUDYNEST | CLASS 11 PHYSICS) Tj ET
-BT /F2 17 Tf 48 782 Td (QUESTION PAPER 1) Tj ET
-BT /F2 12 Tf 48 762 Td (Chapter 5: Work, Energy and Power) Tj ET
-BT /F2 9 Tf 48 747 Td (Maximum Marks: 40 | Suggested time: 60 minutes) Tj ET
-BT /F1 8.5 Tf 48 735 Td (Instructions: Answer all questions. Show calculations and units. Original practice material, not an official) Tj ET
-BT /F1 8.5 Tf 48 723.5 Td (examination.) Tj ET
-BT /F2 9.5 Tf 48 708 Td (Section A - 1-mark questions - 8 x 1 = 8 marks) Tj ET
-BT /F1 8.5 Tf 48 692.5 Td (1. When is work zero with displacement? [1]) Tj ET
-BT /F1 8.5 Tf 48 681 Td (2. Kinetic energy? [1]) Tj ET
-BT /F1 8.5 Tf 48 669.5 Td (3. SI unit of power? [1]) Tj ET
-BT /F1 8.5 Tf 48 658 Td (4. Work-energy theorem? [1]) Tj ET
-BT /F1 8.5 Tf 48 646.5 Td (5. Spring energy? [1]) Tj ET
-BT /F1 8.5 Tf 48 635 Td (6. What is conserved in an isolated elastic collision? [1]) Tj ET
-BT /F1 8.5 Tf 48 623.5 Td (7. Near-earth gravitational potential energy? [1]) Tj ET
-BT /F1 8.5 Tf 48 612 Td (8. Work by centripetal force in uniform circular motion? [1]) Tj ET
-BT /F2 9.5 Tf 48 597.5 Td (Section B - 2-mark questions - 6 x 2 = 12 marks) Tj ET
-BT /F1 8.5 Tf 48 582 Td (9. 10 N over 4 m along force: work? [2]) Tj ET
-BT /F1 8.5 Tf 48 570.5 Td (10. 3 kg at 4 m/s: K? [2]) Tj ET
-BT /F1 8.5 Tf 48 559 Td (11. 100 W for 20 s: energy? [2]) Tj ET
-BT /F1 8.5 Tf 48 547.5 Td (12. 200 N perpendicular to 5 m displacement: work? [2]) Tj ET
-BT /F1 8.5 Tf 48 536 Td (13. k=200 N/m, spring stretched .1 m: energy? [2]) Tj ET
-BT /F1 8.5 Tf 48 524.5 Td (14. 1 kg cart at 5 m/s sticks to stationary 4 kg: speed? [2]) Tj ET
-BT /F2 9.5 Tf 48 510 Td (Section C - 3-mark questions - 4 x 3 = 12 marks) Tj ET
-BT /F1 8.5 Tf 48 494.5 Td (15. 2 kg speeds from 2 to 6 m/s: net work? [3]) Tj ET
-BT /F1 8.5 Tf 48 483 Td (16. 5 kg falls 3 m, g=10: final speed? [3]) Tj ET
-BT /F1 8.5 Tf 48 471.5 Td (17. F=4x N from x=0 to 3 m: work? [3]) Tj ET
-BT /F1 8.5 Tf 48 460 Td (18. 1000 kg car at 20 m/s stops in 50 m: W and force magnitude? [3]) Tj ET
-BT /F2 9.5 Tf 48 445.5 Td (Section D - 4-mark questions - 2 x 4 = 8 marks) Tj ET
-BT /F1 8.5 Tf 48 430 Td (19. 2 kg drops 5 m frictionlessly, g=10: speed; with 20 J loss? [4]) Tj ET
-BT /F1 8.5 Tf 48 418.5 Td (20. 1 kg cart at 8 m/s sticks to 3 kg stationary: speed and energy loss? [4]) Tj ET
-BT /F1 8.5 Tf 48 404 Td (End of paper - check working, units, signs and significant figures.) Tj ET
-BT /F1 8 Tf 430 24 Td (StudyNest | Page 1 of 1) Tj ET
+BT /F2 17 Tf 48 781.7 Td (QUESTION PAPER 1) Tj ET
+BT /F2 12 Tf 48 761.4000000000001 Td (Chapter 5: Work, Energy and Power) Tj ET
+BT /F2 9 Tf 48 746.1000000000001 Td (Maximum Marks: 40 | Suggested time: 60 minutes) Tj ET
+BT /F1 8.5 Tf 48 733.8000000000002 Td (Instructions: Answer all questions. Show calculation steps and units. Original practice paper, not an official) Tj ET
+BT /F1 8.5 Tf 48 722.0000000000002 Td (examination.) Tj ET
+BT /F2 9.5 Tf 48 706.2000000000003 Td (Section A 1-mark questions - 8 x 1 = 8 marks) Tj ET
+BT /F1 8.4 Tf 48 690.4000000000003 Td (1. When is work zero with displacement? [1]) Tj ET
+BT /F1 8.4 Tf 48 678.7000000000003 Td (2. Kinetic energy? [1]) Tj ET
+BT /F1 8.4 Tf 48 667.0000000000002 Td (3. SI unit of power? [1]) Tj ET
+BT /F1 8.4 Tf 48 655.3000000000002 Td (4. Work-energy theorem? [1]) Tj ET
+BT /F1 8.4 Tf 48 643.6000000000001 Td (5. Spring energy? [1]) Tj ET
+BT /F1 8.4 Tf 48 631.9000000000001 Td (6. What is conserved in an isolated elastic collision? [1]) Tj ET
+BT /F1 8.4 Tf 48 620.2 Td (7. Near-earth gravitational potential energy? [1]) Tj ET
+BT /F1 8.4 Tf 48 608.5 Td (8. Work by centripetal force in uniform circular motion? [1]) Tj ET
+BT /F2 9.5 Tf 48 594.8 Td (Section B 2-mark questions - 6 x 2 = 12 marks) Tj ET
+BT /F1 8.4 Tf 48 579 Td (9. 10 N over 4 m along force: work? [2]) Tj ET
+BT /F1 8.4 Tf 48 567.3 Td (10. 3 kg at 4 m/s: K? [2]) Tj ET
+BT /F1 8.4 Tf 48 555.5999999999999 Td (11. 100 W for 20 s: energy? [2]) Tj ET
+BT /F1 8.4 Tf 48 543.8999999999999 Td (12. 200 N perpendicular to 5 m displacement: work? [2]) Tj ET
+BT /F1 8.4 Tf 48 532.1999999999998 Td (13. k=200 N/m, spring stretched .1 m: energy? [2]) Tj ET
+BT /F1 8.4 Tf 48 520.4999999999998 Td (14. 1 kg cart at 5 m/s sticks to stationary 4 kg: speed? [2]) Tj ET
+BT /F2 9.5 Tf 48 506.7999999999998 Td (Section C 3-mark questions - 4 x 3 = 12 marks) Tj ET
+BT /F1 8.4 Tf 48 490.9999999999998 Td (15. 2 kg speeds from 2 to 6 m/s: net work? [3]) Tj ET
+BT /F1 8.4 Tf 48 479.2999999999998 Td (16. 5 kg falls 3 m, g=10: final speed? [3]) Tj ET
+BT /F1 8.4 Tf 48 467.5999999999998 Td (17. F=4x N from x=0 to 3 m: work? [3]) Tj ET
+BT /F1 8.4 Tf 48 455.8999999999998 Td (18. 1000 kg car at 20 m/s stops in 50 m: W and force magnitude? [3]) Tj ET
+BT /F2 9.5 Tf 48 442.1999999999998 Td (Section D 4-mark questions - 2 x 4 = 8 marks) Tj ET
+BT /F1 8.4 Tf 48 426.3999999999998 Td (19. 2 kg drops 5 m frictionlessly, g=10: speed; with 20 J loss? [4]) Tj ET
+BT /F1 8.4 Tf 48 414.6999999999998 Td (20. 1 kg cart at 8 m/s sticks to 3 kg stationary: speed and energy loss? [4]) Tj ET
+BT /F2 8.5 Tf 48 400.99999999999983 Td (End of question paper.) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 1 of 4) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1218 >>
+stream
+BT /F2 15 Tf 48 795 Td (FORMULA AND EQUATION REFERENCE) Tj ET
+BT /F2 9.5 Tf 48 771.7 Td (Chapter-specific equations worth knowing) Tj ET
+BT /F1 8.6 Tf 48 758.9000000000001 Td (- Work: W=Fs cos\(theta\); if force is perpendicular, W=0.) Tj ET
+BT /F1 8.6 Tf 48 747.0000000000001 Td (- Kinetic energy K=\(1/2\)mv^2; gravitational potential near Earth U=mgh; spring energy U_s=\(1/2\)kx^2.) Tj ET
+BT /F1 8.6 Tf 48 735.1000000000001 Td (- Work-energy theorem: W_net=Delta K=\(1/2\)m\(v^2-u^2\).) Tj ET
+BT /F1 8.6 Tf 48 723.2000000000002 Td (- Power P=W/t; energy transferred E=Pt.) Tj ET
+BT /F1 8.6 Tf 48 711.3000000000002 Td (- Momentum conservation in a perfectly inelastic collision: m1u1+m2u2=\(m1+m2\)v.) Tj ET
+BT /F1 8.6 Tf 48 699.4000000000002 Td (- For F=kx from x=0 to x=a: W=integral\(F dx\)=\(1/2\)ka^2.) Tj ET
+BT /F1 8.6 Tf 48 687.5000000000002 Td (- For a falling body without losses: mgh=\(1/2\)mv^2, so v=sqrt\(2gh\).) Tj ET
+BT /F1 8.6 Tf 48 675.6000000000003 Td (- Stopping force magnitude for constant force: |F|=|W|/distance.) Tj ET
+BT /F1 8 Tf 48 663.7000000000003 Td (Use each equation only when its assumptions apply; keep units consistent.) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 2 of 4) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 4753 >>
+stream
+BT /F2 15 Tf 48 795 Td (STEP-BY-STEP SOLUTIONS) Tj ET
+BT /F1 8.5 Tf 48 771.7 Td (Solutions are grouped here after the question paper and formula reference.) Tj ET
+BT /F2 9.5 Tf 48 755.9000000000001 Td (Question 1) Tj ET
+BT /F1 8.2 Tf 48 741.1000000000001 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 729.6000000000001 Td (Apply it to this question: When force is perpendicular to displacement.) Tj ET
+BT /F2 8.5 Tf 48 717.9000000000001 Td (Final answer: When force is perpendicular to displacement.) Tj ET
+BT /F2 9.5 Tf 48 703.1000000000001 Td (Question 2) Tj ET
+BT /F1 8.2 Tf 48 688.3000000000002 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 676.8000000000002 Td (Apply it to this question: mv^2.) Tj ET
+BT /F2 8.5 Tf 48 665.1000000000001 Td (Final answer: mv^2.) Tj ET
+BT /F2 9.5 Tf 48 650.3000000000002 Td (Question 3) Tj ET
+BT /F1 8.2 Tf 48 635.5000000000002 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 624.0000000000002 Td (Apply it to this question: Watt.) Tj ET
+BT /F2 8.5 Tf 48 612.3000000000002 Td (Final answer: Watt.) Tj ET
+BT /F2 9.5 Tf 48 597.5000000000002 Td (Question 4) Tj ET
+BT /F1 8.2 Tf 48 582.7000000000003 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 571.2000000000003 Td (Apply it to this question: Net work equals change in kinetic energy.) Tj ET
+BT /F2 8.5 Tf 48 559.5000000000002 Td (Final answer: Net work equals change in kinetic energy.) Tj ET
+BT /F2 9.5 Tf 48 544.7000000000003 Td (Question 5) Tj ET
+BT /F1 8.2 Tf 48 529.9000000000003 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 518.4000000000003 Td (Apply it to this question: kx^2.) Tj ET
+BT /F2 8.5 Tf 48 506.70000000000033 Td (Final answer: kx^2.) Tj ET
+BT /F2 9.5 Tf 48 491.9000000000003 Td (Question 6) Tj ET
+BT /F1 8.2 Tf 48 477.1000000000003 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 465.6000000000003 Td (Apply it to this question: Momentum and kinetic energy.) Tj ET
+BT /F2 8.5 Tf 48 453.9000000000003 Td (Final answer: Momentum and kinetic energy.) Tj ET
+BT /F2 9.5 Tf 48 439.1000000000003 Td (Question 7) Tj ET
+BT /F1 8.2 Tf 48 424.3000000000003 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 412.8000000000003 Td (Apply it to this question: mgh.) Tj ET
+BT /F2 8.5 Tf 48 401.1000000000003 Td (Final answer: mgh.) Tj ET
+BT /F2 9.5 Tf 48 386.3000000000003 Td (Question 8) Tj ET
+BT /F1 8.2 Tf 48 371.5000000000003 Td (Principle / definition: Recall the relevant definition or equation from the formula reference.) Tj ET
+BT /F1 8.4 Tf 48 360.0000000000003 Td (Apply it to this question: Zero.) Tj ET
+BT /F2 8.5 Tf 48 348.3000000000003 Td (Final answer: Zero.) Tj ET
+BT /F2 9.5 Tf 48 333.5000000000003 Td (Question 9) Tj ET
+BT /F1 8.4 Tf 48 318.7000000000003 Td (Working: Work W=Fs cos0=10\(4\)\(1\)=40 J.) Tj ET
+BT /F2 8.5 Tf 48 306.0000000000003 Td (Final answer: 40 J.) Tj ET
+BT /F2 9.5 Tf 48 291.2000000000003 Td (Question 10) Tj ET
+BT /F1 8.4 Tf 48 276.40000000000026 Td (Working: K=\(1/2\)mv^2=0.5\(3\)\(4^2\)=1.5\(16\)=24 J.) Tj ET
+BT /F2 8.5 Tf 48 263.7000000000003 Td (Final answer: 24 J.) Tj ET
+BT /F2 9.5 Tf 48 248.90000000000026 Td (Question 11) Tj ET
+BT /F1 8.4 Tf 48 234.10000000000025 Td (Working: Energy transferred E=Pt=100\(20\)=2000 J.) Tj ET
+BT /F2 8.5 Tf 48 221.40000000000026 Td (Final answer: 2000 J.) Tj ET
+BT /F2 9.5 Tf 48 206.60000000000025 Td (Question 12) Tj ET
+BT /F1 8.4 Tf 48 191.80000000000024 Td (Working: W=Fs cos90 deg=0 J because the force is perpendicular to displacement.) Tj ET
+BT /F2 8.5 Tf 48 179.10000000000025 Td (Final answer: 0 J.) Tj ET
+BT /F2 9.5 Tf 48 164.30000000000024 Td (Question 13) Tj ET
+BT /F1 8.4 Tf 48 149.50000000000023 Td (Working: Spring energy U=\(1/2\)kx^2=0.5\(200\)\(0.1^2\)=100\(0.01\)=1 J.) Tj ET
+BT /F2 8.5 Tf 48 136.80000000000024 Td (Final answer: 1 J.) Tj ET
+BT /F2 9.5 Tf 48 122.00000000000024 Td (Question 14) Tj ET
+BT /F1 8.4 Tf 48 107.20000000000024 Td (Working: Conserve momentum: \(1\)\(5\)+\(4\)\(0\)=\(1+4\)v, so v=5/5=1 m/s.) Tj ET
+BT /F2 8.5 Tf 48 94.50000000000024 Td (Final answer: 1 m/s.) Tj ET
+BT /F2 9.5 Tf 48 79.70000000000024 Td (Question 15) Tj ET
+BT /F1 8.4 Tf 48 64.90000000000025 Td (Working: Net work=change in kinetic energy=0.5m\(v^2-u^2\)=0.5\(2\)\(36-4\)=32 J.) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 3 of 4) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 1797 >>
+stream
+BT /F2 8.5 Tf 48 795 Td (Final answer: 32 J.) Tj ET
+BT /F2 9.5 Tf 48 780.2 Td (Question 16) Tj ET
+BT /F1 8.4 Tf 48 765.4000000000001 Td (Working: mgh=\(1/2\)mv^2; mass cancels, so v=sqrt\(2gh\)=sqrt\(2\(10\)\(3\)\)=sqrt60=7.75 m/s.) Tj ET
+BT /F2 8.5 Tf 48 752.7 Td (Final answer: sqrt60approx 7.75 m/s.) Tj ET
+BT /F2 9.5 Tf 48 737.9000000000001 Td (Question 17) Tj ET
+BT /F1 8.4 Tf 48 723.1000000000001 Td (Working: F=4x. Work is the area under F-x graph: integral from 0 to 3 of 4x dx=[2x^2]_0^3=18 J.) Tj ET
+BT /F2 8.5 Tf 48 710.4000000000001 Td (Final answer: 18 J.) Tj ET
+BT /F2 9.5 Tf 48 695.6000000000001 Td (Question 18) Tj ET
+BT /F1 8.4 Tf 48 680.8000000000002 Td (Working: Initial K=0.5\(1000\)\(20^2\)=200,000 J. Work by braking=-200,000 J=-200 kJ. Average stopping force) Tj ET
+BT /F1 8.4 Tf 48 669.1000000000001 Td (magnitude=200,000/50=4000 N.) Tj ET
+BT /F2 8.5 Tf 48 656.4000000000001 Td (Final answer: -200 kJ; 4000 N.) Tj ET
+BT /F2 9.5 Tf 48 641.6000000000001 Td (Question 19) Tj ET
+BT /F1 8.4 Tf 48 626.8000000000002 Td (Working: Without loss, mgh=K gives v=sqrt\(2gh\)=sqrt\(100\)=10 m/s. If 20 J is lost, initial potential) Tj ET
+BT /F1 8.4 Tf 48 615.1000000000001 Td (energy=2\(10\)\(5\)=100 J and final K=80 J; v=sqrt\(2K/m\)=sqrt80=8.94 m/s.) Tj ET
+BT /F2 8.5 Tf 48 602.4000000000001 Td (Final answer: 10 m/s; sqrt80approx 8.94 m/s.) Tj ET
+BT /F2 9.5 Tf 48 587.6000000000001 Td (Question 20) Tj ET
+BT /F1 8.4 Tf 48 572.8000000000002 Td (Working: Momentum conservation gives \(1\)\(8\)=\(1+3\)v, so v=2 m/s. Initial K=0.5\(1\)\(64\)=32 J; final K=0.5\(4\)\(2^2\)=8 J;) Tj ET
+BT /F1 8.4 Tf 48 561.1000000000001 Td (energy lost=32-8=24 J.) Tj ET
+BT /F2 8.5 Tf 48 548.4000000000001 Td (Final answer: 2 m/s; 24 J lost.) Tj ET
+BT /F1 8 Tf 430 24 Td (StudyNest | Page 4 of 4) Tj ET
 endstream
 endobj
 xref
-0 7
+0 13
 0000000000 65535 f 
-0000000030 00000 n 
-0000000079 00000 n 
-0000000136 00000 n 
-0000000206 00000 n 
-0000000281 00000 n 
-0000000417 00000 n 
+0000000044 00000 n 
+0000000093 00000 n 
+0000000169 00000 n 
+0000000239 00000 n 
+0000000314 00000 n 
+0000000450 00000 n 
+0000003262 00000 n 
+0000003398 00000 n 
+0000004667 00000 n 
+0000004804 00000 n 
+0000009609 00000 n 
+0000009747 00000 n 
 trailer
-<< /Size 7 /Root 1 0 R >>
+<< /Size 13 /Root 1 0 R >>
 startxref
-2959
+11596
 %%EOF
