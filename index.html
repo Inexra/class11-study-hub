@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f8fc">
+  <meta name="description" content="Find Class 11 notes, practice worksheets, revision guides and question papers in one simple study hub.">
+  <title>StudyNest — Class 11 Study Hub</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#" aria-label="StudyNest home"><span class="brand-mark">S</span><span>studynest<span class="brand-dot">.</span></span></a>
+    <nav class="top-nav" aria-label="Main navigation">
+      <a class="nav-active" href="#resources">Resources</a>
+      <a href="#subjects">Subjects</a>
+      <a href="#about">About</a>
+    </nav>
+    <a class="header-cta" href="#resources">Explore notes <span aria-hidden="true">↗</span></a>
+    <button class="menu-toggle" id="menuToggle" aria-label="Toggle navigation" aria-expanded="false">☰</button>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <div class="eyebrow"><span class="eyebrow-dot"></span> YOUR CLASS 11 STUDY COMPANION</div>
+        <h1>Study smarter.<br><span>Feel ready.</span></h1>
+        <p class="hero-description">Clear notes, useful practice and revision resources — all in one calm, simple place.</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#resources">Find study material <span>→</span></a>
+          <a class="button button-quiet" href="#subjects">Browse subjects</a>
+        </div>
+        <div class="hero-note"><span class="note-check">✓</span> Made for focused learning, one chapter at a time.</div>
+      </div>
+      <div class="hero-art" aria-label="Study desk illustration" role="img">
+        <div class="art-orbit orbit-one"></div><div class="art-orbit orbit-two"></div>
+        <div class="art-spark spark-one">✳</div><div class="art-spark spark-two">✦</div>
+        <div class="book book-back"><span></span><span></span><span></span></div>
+        <div class="book book-front"><div class="book-label">CLASS<br><b>11</b></div><div class="book-lines"></div></div>
+        <div class="art-card"><span class="art-card-icon">✎</span><div><b>Small steps</b><small>Big progress</small></div><span class="art-card-check">✓</span></div>
+        <div class="art-caption">YOUR NEXT CHAPTER STARTS HERE</div>
+      </div>
+    </section>
+
+    <section class="quick-stats" aria-label="Resource categories">
+      <div class="stat"><span class="stat-icon lavender">▤</span><div><b>Chapter notes</b><small>Review key concepts</small></div></div>
+      <div class="stat"><span class="stat-icon mint">✎</span><div><b>Practice sheets</b><small>Build confidence</small></div></div>
+      <div class="stat"><span class="stat-icon peach">▣</span><div><b>Question papers</b><small>Prepare for exams</small></div></div>
+    </section>
+
+    <section class="resources-section" id="resources">
+      <div class="section-heading">
+        <div><div class="eyebrow">THE RESOURCE LIBRARY</div><h2>What are you studying today?</h2><p>Pick a subject or search for a topic to get started.</p></div>
+        <span class="resource-count" id="resourceCount">6 starter resources</span>
+      </div>
+      <div class="filter-panel">
+        <label class="search-box"><span aria-hidden="true">⌕</span><input id="searchInput" type="search" placeholder="Search chapters, topics or resources..." autocomplete="off"><kbd>⌘ K</kbd></label>
+        <div class="filter-row">
+          <div class="filter-pills" id="subjectFilters" aria-label="Filter by subject">
+            <button class="filter-pill selected" data-subject="All">All subjects</button>
+            <button class="filter-pill" data-subject="Physics">Physics</button>
+            <button class="filter-pill" data-subject="Chemistry">Chemistry</button>
+            <button class="filter-pill" data-subject="Mathematics">Mathematics</button>
+            <button class="filter-pill" data-subject="Biology">Biology</button>
+            <button class="filter-pill" data-subject="English">English</button>
+          </div>
+          <select id="typeFilter" aria-label="Filter by resource type"><option value="All">All resource types</option><option value="Notes">Notes</option><option value="Worksheet">Worksheets</option><option value="Question paper">Question papers</option><option value="Revision">Revision guides</option></select>
+        </div>
+      </div>
+      <div class="resource-grid" id="resourceGrid" aria-live="polite"></div>
+      <div class="empty-state" id="emptyState" hidden><span>⌕</span><h3>No resources found</h3><p>Try another search or clear a filter.</p><button class="button button-primary" id="clearFilters">Clear filters</button></div>
+      <div class="library-footnote"><span class="footnote-icon">✦</span><span>New material will be added as the library grows. Have a chapter in mind? Start with the search above.</span></div>
+    </section>
+
+    <section class="subjects-section" id="subjects">
+      <div class="section-heading compact-heading"><div><div class="eyebrow">FIND YOUR SUBJECT</div><h2>A little progress every day.</h2></div><span class="muted-label">CLASS 11</span></div>
+      <div class="subject-grid">
+        <button class="subject-card physics" data-pick-subject="Physics"><span class="subject-symbol">↗</span><span><b>Physics</b><small>Concepts & numericals</small></span><span class="subject-arrow">↗</span></button>
+        <button class="subject-card chemistry" data-pick-subject="Chemistry"><span class="subject-symbol">⚗</span><span><b>Chemistry</b><small>Reactions & concepts</small></span><span class="subject-arrow">↗</span></button>
+        <button class="subject-card maths" data-pick-subject="Mathematics"><span class="subject-symbol">∑</span><span><b>Mathematics</b><small>Practice step by step</small></span><span class="subject-arrow">↗</span></button>
+        <button class="subject-card biology" data-pick-subject="Biology"><span class="subject-symbol">❋</span><span><b>Biology</b><small>Diagrams & revision</small></span><span class="subject-arrow">↗</span></button>
+        <button class="subject-card english" data-pick-subject="English"><span class="subject-symbol">Aa</span><span><b>English</b><small>Literature & writing</small></span><span class="subject-arrow">↗</span></button>
+      </div>
+    </section>
+
+    <section class="about-strip" id="about"><div class="about-mark">S.</div><div><h2>Less searching. More learning.</h2><p>StudyNest is a simple, student-friendly library for Class 11 learning resources.</p></div><a href="#resources" class="about-link">Back to resources <span>↑</span></a></section>
+  </main>
+
+  <footer class="site-footer"><a class="brand footer-brand" href="#"><span class="brand-mark">S</span><span>studynest<span class="brand-dot">.</span></span></a><span>Built for curious minds. Keep learning.</span><span>Class 11 · Study resources</span></footer>
+</body>
+</html>
