@@ -16,8 +16,10 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
 endobj
 6 0 obj
-<< /Length 2750 >>
+<< /Length 2965 >>
 stream
+q 0.92 g BT /F1 30 Tf 0.866 0.5 -0.5 0.866 120 360 Tm (STUDYNEST) Tj ET Q
+BT /F1 7.5 Tf 34 820 Td (NOTE: Answers may differ with the values/constants or rounding used. Use the values stated in each question.) Tj ET
 BT /F2 10 Tf 48 795 Td (STUDYNEST | CLASS 11 PHYSICS) Tj ET
 BT /F2 17 Tf 48 781.7 Td (QUESTION PAPER 1) Tj ET
 BT /F2 12 Tf 48 761.4000000000001 Td (Chapter 3: Motion in a Plane) Tj ET
@@ -56,8 +58,9 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
 endobj
 8 0 obj
-<< /Length 1233 >>
+<< /Length 1307 >>
 stream
+q 0.92 g BT /F1 30 Tf 0.866 0.5 -0.5 0.866 120 360 Tm (STUDYNEST) Tj ET Q
 BT /F2 15 Tf 48 795 Td (FORMULA AND EQUATION REFERENCE) Tj ET
 BT /F2 9.5 Tf 48 771.7 Td (Chapter-specific equations worth knowing) Tj ET
 BT /F1 8.6 Tf 48 758.9000000000001 Td (- Vector components: A_x=A cos\(theta\); A_y=A sin\(theta\).) Tj ET
@@ -75,8 +78,9 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
 endobj
 10 0 obj
-<< /Length 4673 >>
+<< /Length 4747 >>
 stream
+q 0.92 g BT /F1 30 Tf 0.866 0.5 -0.5 0.866 120 360 Tm (STUDYNEST) Tj ET Q
 BT /F2 15 Tf 48 795 Td (STEP-BY-STEP SOLUTIONS) Tj ET
 BT /F1 8.5 Tf 48 771.7 Td (Solutions are grouped here after the question paper and formula reference.) Tj ET
 BT /F2 9.5 Tf 48 755.9000000000001 Td (Question 1) Tj ET
@@ -138,8 +142,9 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
 endobj
 12 0 obj
-<< /Length 1827 >>
+<< /Length 1901 >>
 stream
+q 0.92 g BT /F1 30 Tf 0.866 0.5 -0.5 0.866 120 360 Tm (STUDYNEST) Tj ET Q
 BT /F1 8.4 Tf 48 795 Td (Working: u_y=20 sin30=10 m/s. Time T=2u_y/g=20/10=2 s. Maximum height H=u_y^2/\(2g\)=100/20=5 m.) Tj ET
 BT /F2 8.5 Tf 48 782.3 Td (Final answer: T=2 s; H=5 m.) Tj ET
 BT /F2 9.5 Tf 48 767.5 Td (Question 16) Tj ET
@@ -172,14 +177,14 @@ xref
 0000000239 00000 n 
 0000000314 00000 n 
 0000000450 00000 n 
-0000003251 00000 n 
-0000003387 00000 n 
-0000004671 00000 n 
-0000004808 00000 n 
-0000009533 00000 n 
-0000009671 00000 n 
+0000003466 00000 n 
+0000003602 00000 n 
+0000004960 00000 n 
+0000005097 00000 n 
+0000009896 00000 n 
+0000010034 00000 n 
 trailer
 << /Size 13 /Root 1 0 R >>
 startxref
-11550
+11987
 %%EOF
