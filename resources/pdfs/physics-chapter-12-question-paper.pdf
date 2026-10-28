@@ -139,7 +139,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
 endobj
 12 0 obj
-<< /Length 2009 >>
+<< /Length 2007 >>
 stream
 BT /F1 8.4 Tf 48 795 Td (Working: v_rms=sqrt\(3RT/M\)=sqrt[3\(8.31\)\(300\)/0.028]=sqrt\(266,785.7\)=516.5 m/s, approximately 517 m/s.) Tj ET
 BT /F2 8.5 Tf 48 782.3 Td (Final answer: approx 517 m/s.) Tj ET
@@ -159,8 +159,8 @@ BT /F1 8.4 Tf 48 602.4000000000001 Td (so the lighter gas is twice as fast.) Tj 
 BT /F2 8.5 Tf 48 589.7 Td (Final answer: Lighter gas speed is twice as high.) Tj ET
 BT /F2 9.5 Tf 48 574.9000000000001 Td (Question 20) Tj ET
 BT /F1 8.4 Tf 48 560.1000000000001 Td (Working: U=\(f/2\)nRT=\(5/2\)\(2\)\(8.31\)\(300\)=24,930 J, approximately 24.9 kJ. \(The paper's original approximate answer of) Tj ET
-BT /F1 8.4 Tf 48 548.4000000000001 Td (12.5 kJ omits the factor n=2; this worked solution corrects it.\)) Tj ET
-BT /F2 8.5 Tf 48 535.7 Td (Final answer: U=\(5/2\)nRTapprox 12.5 kJ.) Tj ET
+BT /F1 8.4 Tf 48 548.4000000000001 Td (This uses n=2 mol, giving the corrected total internal energy.\)) Tj ET
+BT /F2 8.5 Tf 48 535.7 Td (Final answer: U=24,930 J approx 24.9 kJ.) Tj ET
 BT /F1 8 Tf 430 24 Td (StudyNest | Page 4 of 4) Tj ET
 endstream
 endobj
@@ -182,5 +182,5 @@ xref
 trailer
 << /Size 13 /Root 1 0 R >>
 startxref
-12235
+12233
 %%EOF

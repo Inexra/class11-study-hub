@@ -16,7 +16,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
 endobj
 6 0 obj
-<< /Length 3008 >>
+<< /Length 3027 >>
 stream
 BT /F2 10 Tf 48 795 Td (STUDYNEST | CLASS 11 PHYSICS) Tj ET
 BT /F2 17 Tf 48 782 Td (MARKING SCHEME AND MODEL ANSWERS) Tj ET
@@ -68,7 +68,7 @@ BT /F1 8.5 Tf 48 198.5 Td (Three translational modes contribute 3k_BT/2 per mole
 BT /F2 9 Tf 48 187 Td (Q19 - 4 marks) Tj ET
 BT /F1 8.5 Tf 48 173 Td (Lighter gas speed is twice as high.) Tj ET
 BT /F2 9 Tf 48 161.5 Td (Q20 - 4 marks) Tj ET
-BT /F1 8.5 Tf 48 147.5 Td (U=\(5/2\)nRTapprox 12.5 kJ.) Tj ET
+BT /F1 8.5 Tf 48 147.5 Td (U=(5/2)(2)(8.31)(300)=24,930 J approx 24.9 kJ.) Tj ET
 BT /F1 8 Tf 430 24 Td (StudyNest | Page 1 of 1) Tj ET
 endstream
 endobj
@@ -84,5 +84,5 @@ xref
 trailer
 << /Size 7 /Root 1 0 R >>
 startxref
-3476
+3495
 %%EOF
