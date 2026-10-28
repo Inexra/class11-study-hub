@@ -1,0 +1,63 @@
+%PDF-1.4
+%StudyNest
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+stream
+BT /F1 11 Tf 50 790 Td (STUDYNEST | CLASS 11 PHYSICS) Tj ET
+BT /F1 18 Tf 50 771 Td (QUESTION PAPER 1) Tj ET
+BT /F1 13 Tf 50 742 Td (Chapter 1: Units and Measurements) Tj ET
+BT /F1 11 Tf 50 719 Td (Maximum Marks: 40 | Suggested time: 60 minutes) Tj ET
+BT /F1 10 Tf 50 700 Td (Instructions: Answer all questions. Marks are shown in brackets. Show calculation steps) Tj ET
+BT /F1 10 Tf 50 687 Td (and units. Original practice paper, not an official examination paper.) Tj ET
+BT /F1 11 Tf 50 665 Td (Section A 1-mark questions - 8 x 1 = 8 marks) Tj ET
+BT /F1 10 Tf 50 646 Td (1. How many SI base quantities?) Tj ET
+BT /F1 10 Tf 50 632 Td (1. SI unit of temperature?) Tj ET
+BT /F1 10 Tf 50 618 Td (1. Significant figures in 0.00450?) Tj ET
+BT /F1 10 Tf 50 604 Td (1. Dimensions of speed?) Tj ET
+BT /F1 10 Tf 50 590 Td (1. Dimensions of force?) Tj ET
+BT /F1 10 Tf 50 576 Td (1. Is length/length dimensionless?) Tj ET
+BT /F1 10 Tf 50 562 Td (1. Can dimensional analysis determine pi?) Tj ET
+BT /F1 10 Tf 50 548 Td (1. SI unit of pressure?) Tj ET
+BT /F1 11 Tf 50 534 Td (Section B 2-mark questions - 6 x 2 = 12 marks) Tj ET
+BT /F1 10 Tf 50 515 Td (1. Round 12.486 to 3 significant figures.) Tj ET
+BT /F1 10 Tf 50 501 Td (1. Dimensions of momentum mv?) Tj ET
+BT /F1 10 Tf 50 487 Td (1. Check s=ut+at^2 dimensionally.) Tj ET
+BT /F1 10 Tf 50 473 Td (1. Convert 72 km/h to m/s.) Tj ET
+BT /F1 10 Tf 50 459 Td (1. Significant figures in 5.070 x 10^3?) Tj ET
+BT /F1 10 Tf 50 445 Td (1. Why can't dimensions distinguish work and torque?) Tj ET
+BT /F1 11 Tf 50 431 Td (Section C 3-mark questions - 4 x 3 = 12 marks) Tj ET
+BT /F1 10 Tf 50 412 Td (1. Derive pendulum period dependence T proportional to lg.) Tj ET
+BT /F1 10 Tf 50 398 Td (1. Sphere radius 2.00 cm: volume to 3 s.f.?) Tj ET
+BT /F1 10 Tf 50 384 Td (1. Dimensions of G from F=Gm1m2/r^2?) Tj ET
+BT /F1 10 Tf 50 370 Td (1. 15.2 cm x 3.4 cm: area with correct precision?) Tj ET
+BT /F1 11 Tf 50 356 Td (Section D 4-mark questions - 2 x 4 = 8 marks) Tj ET
+BT /F1 10 Tf 50 337 Td (1. Spring-mass period T proportional to mk, [k]=MT-^2. Find exponents.) Tj ET
+BT /F1 10 Tf 50 323 Td (1. Calculated volume is 18.237 cm^3, least precise input 3 s.f. What is reported?) Tj ET
+BT /F1 11 Tf 50 309 Td (End of paper - check signs, units and working.) Tj ET
+BT /F1 8 Tf 500 25 Td (StudyNest | Page 1 of 1) Tj ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000020 00000 n 
+0000000069 00000 n 
+0000000126 00000 n 
+0000000196 00000 n 
+0000000322 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2696
+%%EOF
