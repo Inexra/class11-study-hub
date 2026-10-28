@@ -16,7 +16,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
 endobj
 6 0 obj
-<< /Length 2107 >>
+<< /Length 2429 >>
 stream
 BT /F2 10 Tf 48 795 Td (STUDYNEST | CLASS 11 PHYSICS) Tj ET
 BT /F2 17 Tf 48 782 Td (QUESTION PAPER 1) Tj ET
@@ -24,27 +24,31 @@ BT /F2 12 Tf 48 762 Td (Chapter 3: Motion in a Plane) Tj ET
 BT /F2 9 Tf 48 747 Td (Maximum Marks: 40 | Suggested time: 60 minutes) Tj ET
 BT /F1 8.5 Tf 48 735 Td (Instructions: Answer all questions. Show calculations and units. Original practice material, not an official) Tj ET
 BT /F1 8.5 Tf 48 723.5 Td (examination.) Tj ET
-BT /F1 8.5 Tf 48 705 Td (Is displacement scalar or vector? [1]) Tj ET
-BT /F1 8.5 Tf 48 693.5 Td (x-component at angle theta? [1]) Tj ET
-BT /F1 8.5 Tf 48 682 Td (Horizontal acceleration of an ideal projectile? [1]) Tj ET
-BT /F1 8.5 Tf 48 670.5 Td (Direction of centripetal acceleration? [1]) Tj ET
-BT /F1 8.5 Tf 48 659 Td (Magnitude of perpendicular components 3 and 4? [1]) Tj ET
-BT /F1 8.5 Tf 48 647.5 Td (Relation between v and omega? [1]) Tj ET
-BT /F1 8.5 Tf 48 636 Td (Ideal maximum-range angle at equal heights? [1]) Tj ET
-BT /F1 8.5 Tf 48 624.5 Td (Vertical velocity at projectile peak? [1]) Tj ET
-BT /F1 8.5 Tf 48 608 Td (Resolve 10 N at 60 deg . [2]) Tj ET
-BT /F1 8.5 Tf 48 596.5 Td (Displacement after a full circular lap? [2]) Tj ET
-BT /F1 8.5 Tf 48 585 Td (v=12 m/s, r=6 m: a_c? [2]) Tj ET
-BT /F1 8.5 Tf 48 573.5 Td (Horizontal launch from 20 m, g=10: flight time? [2]) Tj ET
-BT /F1 8.5 Tf 48 562 Td (Perpendicular vectors 6 and 8: resultant? [2]) Tj ET
-BT /F1 8.5 Tf 48 550.5 Td (120 rpm in rad/s? [2]) Tj ET
-BT /F1 8.5 Tf 48 534 Td (Projectile at 20 m/s, 30 deg , g=10: T,H? [3]) Tj ET
-BT /F1 8.5 Tf 48 522.5 Td (Forces 8 N east and 6 N north: resultant? [3]) Tj ET
-BT /F1 8.5 Tf 48 511 Td (Cyclist at 10 m/s, radius 25 m: a_c? [3]) Tj ET
-BT /F1 8.5 Tf 48 499.5 Td (25 m/s at 37 deg , sin=.6, cos=.8, g=10: time/range? [3]) Tj ET
-BT /F1 8.5 Tf 48 483 Td (Projectile 20 m/s at 30 deg : time, height, range? [4]) Tj ET
-BT /F1 8.5 Tf 48 471.5 Td (5 kg at 4 m/s in radius 2 m: inward force and work? [4]) Tj ET
-BT /F1 8.5 Tf 48 458 Td (End of paper - check working, units, signs and significant figures.) Tj ET
+BT /F2 9.5 Tf 48 708 Td (Section A - 1-mark questions - 8 x 1 = 8 marks) Tj ET
+BT /F1 8.5 Tf 48 692.5 Td (Is displacement scalar or vector? [1]) Tj ET
+BT /F1 8.5 Tf 48 681 Td (x-component at angle theta? [1]) Tj ET
+BT /F1 8.5 Tf 48 669.5 Td (Horizontal acceleration of an ideal projectile? [1]) Tj ET
+BT /F1 8.5 Tf 48 658 Td (Direction of centripetal acceleration? [1]) Tj ET
+BT /F1 8.5 Tf 48 646.5 Td (Magnitude of perpendicular components 3 and 4? [1]) Tj ET
+BT /F1 8.5 Tf 48 635 Td (Relation between v and omega? [1]) Tj ET
+BT /F1 8.5 Tf 48 623.5 Td (Ideal maximum-range angle at equal heights? [1]) Tj ET
+BT /F1 8.5 Tf 48 612 Td (Vertical velocity at projectile peak? [1]) Tj ET
+BT /F2 9.5 Tf 48 597.5 Td (Section B - 2-mark questions - 6 x 2 = 12 marks) Tj ET
+BT /F1 8.5 Tf 48 582 Td (Resolve 10 N at 60 deg . [2]) Tj ET
+BT /F1 8.5 Tf 48 570.5 Td (Displacement after a full circular lap? [2]) Tj ET
+BT /F1 8.5 Tf 48 559 Td (v=12 m/s, r=6 m: a_c? [2]) Tj ET
+BT /F1 8.5 Tf 48 547.5 Td (Horizontal launch from 20 m, g=10: flight time? [2]) Tj ET
+BT /F1 8.5 Tf 48 536 Td (Perpendicular vectors 6 and 8: resultant? [2]) Tj ET
+BT /F1 8.5 Tf 48 524.5 Td (120 rpm in rad/s? [2]) Tj ET
+BT /F2 9.5 Tf 48 510 Td (Section C - 3-mark questions - 4 x 3 = 12 marks) Tj ET
+BT /F1 8.5 Tf 48 494.5 Td (Projectile at 20 m/s, 30 deg , g=10: T,H? [3]) Tj ET
+BT /F1 8.5 Tf 48 483 Td (Forces 8 N east and 6 N north: resultant? [3]) Tj ET
+BT /F1 8.5 Tf 48 471.5 Td (Cyclist at 10 m/s, radius 25 m: a_c? [3]) Tj ET
+BT /F1 8.5 Tf 48 460 Td (25 m/s at 37 deg , sin=.6, cos=.8, g=10: time/range? [3]) Tj ET
+BT /F2 9.5 Tf 48 445.5 Td (Section D - 4-mark questions - 2 x 4 = 8 marks) Tj ET
+BT /F1 8.5 Tf 48 430 Td (Projectile 20 m/s at 30 deg : time, height, range? [4]) Tj ET
+BT /F1 8.5 Tf 48 418.5 Td (5 kg at 4 m/s in radius 2 m: inward force and work? [4]) Tj ET
+BT /F1 8.5 Tf 48 404 Td (End of paper - check working, units, signs and significant figures.) Tj ET
 BT /F1 8 Tf 430 24 Td (StudyNest | Page 1 of 1) Tj ET
 endstream
 endobj
@@ -60,5 +64,5 @@ xref
 trailer
 << /Size 7 /Root 1 0 R >>
 startxref
-2575
+2897
 %%EOF
